@@ -1,0 +1,6154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg9337"
+   height="226.17mm"
+   viewBox="0 0 740.7774 801.39457"
+   width="209.06mm"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="traceability_chain.svg">
+  <metadata
+     id="metadata1262">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     id="namedview1260"
+     showgrid="false"
+     inkscape:zoom="3.6203867"
+     inkscape:cx="133.45219"
+     inkscape:cy="56.718604"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9353" />
+  <defs
+     id="defs9339">
+    <clipPath
+       id="clipPath9359"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9361"
+         clip-rule="evenodd"
+         d="m464.88 307.25h204.09v232.44h-204.09v-232.44z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient9363"
+       y2="540.44"
+       gradientUnits="userSpaceOnUse"
+       x2="566.93"
+       y1="306.5"
+       x1="566.93">
+      <stop
+         id="stop9365"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop9367"
+         stop-color="#00b0f0"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath9397"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9399"
+         clip-rule="evenodd"
+         d="m712.91 275.83h204.09v263.86h-204.09v-263.86z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient9401"
+       y2="540.44"
+       gradientUnits="userSpaceOnUse"
+       x2="814.96"
+       y1="275.08"
+       x1="814.96">
+      <stop
+         id="stop9403"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop9405"
+         stop-color="#ff0000"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath9445"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9447"
+         clip-rule="evenodd"
+         d="m523.01 113.06v-40.591h89.3v40.591h-89.3zm-523.01 729.94h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9455"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9457"
+         clip-rule="evenodd"
+         d="m521.57 73.909h89.291v40.587h-89.291v-40.587z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient9459"
+       y2="115.25"
+       gradientUnits="userSpaceOnUse"
+       x2="566.22"
+       y1="73.159"
+       x1="566.22">
+      <stop
+         id="stop9461"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop9463"
+         stop-color="#00b0f0"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath9483"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9485"
+         clip-rule="evenodd"
+         d="m568.37 787.7c-38.36 0-69.45-20.73-69.45-46.3s31.09-46.3 69.45-46.3c38.35 0 69.45 20.73 69.45 46.3s-31.1 46.3-69.45 46.3zm-568.37 55.3h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9493"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9495"
+         clip-rule="evenodd"
+         d="m497.48 742.84c0 25.57 31.09 46.3 69.45 46.3 38.35 0 69.45-20.73 69.45-46.3s-31.1-46.3-69.45-46.3c-38.36 0-69.45 20.73-69.45 46.3z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient9497"
+       y2="789.89"
+       gradientUnits="userSpaceOnUse"
+       x2="566.93"
+       y1="695.79"
+       x1="566.93">
+      <stop
+         id="stop9499"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop9501"
+         stop-color="#ff0000"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath9533"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9535"
+         clip-rule="evenodd"
+         d="m712.58 656.6c-29.94 0-54.21-16.18-54.21-36.14s24.27-36.14 54.21-36.14 54.21 16.18 54.21 36.14-24.27 36.14-54.21 36.14zm-712.58 186.4h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9543"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9545"
+         clip-rule="evenodd"
+         d="m656.93 621.9c0 19.96 24.27 36.14 54.21 36.14s54.21-16.18 54.21-36.14-24.27-36.14-54.21-36.14-54.21 16.18-54.21 36.14z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient9547"
+       y2="658.79"
+       gradientUnits="userSpaceOnUse"
+       x2="711.14"
+       y1="585.01"
+       x1="711.14">
+      <stop
+         id="stop9549"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop9551"
+         stop-color="#00b0f0"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath9583"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9585"
+         clip-rule="evenodd"
+         d="m613.72 514.63c-20.35 0-36.85-11-36.85-24.57 0-13.56 16.5-24.56 36.85-24.56 20.36 0 36.85 11 36.85 24.56 0 13.57-16.49 24.57-36.85 24.57zm-613.72 328.37h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9593"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9595"
+         clip-rule="evenodd"
+         d="m575.43 491.5c0 13.57 16.5 24.57 36.85 24.57 20.36 0 36.85-11 36.85-24.57 0-13.56-16.49-24.56-36.85-24.56-20.35 0-36.85 11-36.85 24.56z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient9597"
+       y2="516.82"
+       gradientUnits="userSpaceOnUse"
+       x2="612.28"
+       y1="466.19"
+       x1="612.28">
+      <stop
+         id="stop9599"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop9601"
+         stop-color="#ff0000"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath9617"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9619"
+         clip-rule="evenodd"
+         d="m517.35 513.69c-20.36 0-36.85-11-36.85-24.57s16.49-24.57 36.85-24.57c20.35 0 36.85 11 36.85 24.57s-16.5 24.57-36.85 24.57zm-517.35 329.31h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9627"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9629"
+         clip-rule="evenodd"
+         d="m479.06 490.56c-0.01 13.57 16.49 24.57 36.85 24.57 20.35 0 36.85-11 36.85-24.57s-16.5-24.57-36.85-24.57c-20.36 0-36.85 11-36.85 24.57z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient9631"
+       y2="515.88"
+       gradientUnits="userSpaceOnUse"
+       x2="515.91"
+       y1="465.24"
+       x1="515.91">
+      <stop
+         id="stop9633"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop9635"
+         stop-color="#00b0f0"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath9683"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9685"
+         clip-rule="evenodd"
+         d="m867.42 395.58c-20.35 0-36.85-11-36.85-24.57s16.5-24.57 36.85-24.57c20.36 0 36.85 11 36.85 24.57s-16.49 24.57-36.85 24.57zm-867.42 447.42h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9693"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9695"
+         clip-rule="evenodd"
+         d="m829.13 372.45c0 13.57 16.5 24.57 36.85 24.57 20.36 0 36.85-11 36.85-24.57s-16.49-24.57-36.85-24.57c-20.35 0-36.85 11-36.85 24.57z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient9697"
+       y2="397.77"
+       gradientUnits="userSpaceOnUse"
+       x2="865.98"
+       y1="347.13"
+       x1="865.98">
+      <stop
+         id="stop9699"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop9701"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath9733"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9735"
+         clip-rule="evenodd"
+         d="m1038.9 336.99c-25.83 0-46.77-13.96-46.77-31.18s20.94-31.18 46.77-31.18 46.77 13.96 46.77 31.18-20.94 31.18-46.77 31.18zm-1038.9 506.01h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9743"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9745"
+         clip-rule="evenodd"
+         d="m990.71 307.25c0 17.22 20.94 31.18 46.77 31.18s46.77-13.96 46.77-31.18-20.94-31.18-46.77-31.18-46.77 13.96-46.77 31.18z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient9747"
+       y2="339.18"
+       gradientUnits="userSpaceOnUse"
+       x2="1037.5"
+       y1="275.32"
+       x1="1037.5">
+      <stop
+         id="stop9749"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop9751"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath9787"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9789"
+         clip-rule="evenodd"
+         d="m1003.5 426.28v-42.52h70.86v42.52h-70.86zm-1003.5 416.72h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9797"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9799"
+         clip-rule="evenodd"
+         d="m1002 385.2h70.866v42.52h-70.866v-42.52z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient9801"
+       y2="428.47"
+       gradientUnits="userSpaceOnUse"
+       x2="1037.5"
+       y1="384.45"
+       x1="1037.5">
+      <stop
+         id="stop9803"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop9805"
+         stop-color="#00b0f0"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath9821"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9823"
+         clip-rule="evenodd"
+         d="m1027.6 793.37v-42.52h70.87v42.52h-70.87zm-1027.6 49.63h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9831"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9833"
+         clip-rule="evenodd"
+         d="m1026.1 752.29h70.866v42.52h-70.866v-42.52z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient9835"
+       y2="795.56"
+       gradientUnits="userSpaceOnUse"
+       x2="1061.6"
+       y1="751.54"
+       x1="1061.6">
+      <stop
+         id="stop9837"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop9839"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath9855"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9857"
+         clip-rule="evenodd"
+         d="m947.5 793.37-21.26-42.52h70.87l21.26 42.52h-70.87zm-947.5 49.63h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9865"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9867"
+         clip-rule="evenodd"
+         d="m924.8 752.29h70.87l21.26 42.52h-70.87l-21.26-42.52z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient9869"
+       y2="795.56"
+       gradientUnits="userSpaceOnUse"
+       x2="970.87"
+       y1="751.54"
+       x1="970.87">
+      <stop
+         id="stop9871"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop9873"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath9889"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9891"
+         clip-rule="evenodd"
+         d="m880.18 798.1c-21.92 0-39.68-11.85-39.68-26.46s17.76-26.46 39.68-26.46 39.69 11.85 39.69 26.46-17.77 26.46-39.69 26.46zm-880.18 44.9h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9899"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9901"
+         clip-rule="evenodd"
+         d="m839.05 773.08c0 14.61 17.77 26.46 39.69 26.46s39.68-11.85 39.68-26.46-17.76-26.46-39.68-26.46-39.69 11.85-39.69 26.46z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient9903"
+       y2="800.29"
+       gradientUnits="userSpaceOnUse"
+       x2="878.74"
+       y1="745.87"
+       x1="878.74">
+      <stop
+         id="stop9905"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop9907"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath9923"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9925"
+         clip-rule="evenodd"
+         d="m204.12 191.01v-42.52h70.86v42.52h-70.86zm-204.12 651.99h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9933"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9935"
+         clip-rule="evenodd"
+         d="m202.68 149.93h70.866v42.52h-70.866v-42.52z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient9937"
+       y2="193.2"
+       gradientUnits="userSpaceOnUse"
+       x2="238.11"
+       y1="149.18"
+       x1="238.11">
+      <stop
+         id="stop9939"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop9941"
+         stop-color="#00b0f0"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath9965"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9967"
+         clip-rule="evenodd"
+         d="m360.09 691.32-15.73-31.46h52.44l15.73 31.46h-52.44zm-360.09 151.68h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9975"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9977"
+         clip-rule="evenodd"
+         d="m342.92 661.3h52.44l15.73 31.46h-52.44l-15.73-31.46z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient9979"
+       y2="693.51"
+       gradientUnits="userSpaceOnUse"
+       x2="377.01"
+       y1="660.55"
+       x1="377.01">
+      <stop
+         id="stop9981"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop9983"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath10019"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10021"
+         clip-rule="evenodd"
+         d="m568.37 648.8c-23.48 0-42.52-12.69-42.52-28.34 0-15.66 19.04-28.35 42.52-28.35s42.52 12.69 42.52 28.35c0 15.65-19.04 28.34-42.52 28.34zm-568.37 194.2h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10029"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10031"
+         clip-rule="evenodd"
+         d="m524.41 621.9c0 15.65 19.04 28.34 42.52 28.34s42.52-12.69 42.52-28.34c0-15.66-19.04-28.35-42.52-28.35s-42.52 12.69-42.52 28.35z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10033"
+       y2="650.99"
+       gradientUnits="userSpaceOnUse"
+       x2="566.93"
+       y1="592.8"
+       x1="566.93">
+      <stop
+         id="stop10035"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop10037"
+         stop-color="#00b0f0"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath10057"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10059"
+         clip-rule="evenodd"
+         d="m447.12 634.63-14.03-28.06h46.77l14.03 28.06h-46.77zm-447.12 208.37h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10067"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10069"
+         clip-rule="evenodd"
+         d="m431.65 608.01h46.77l14.03 28.06h-46.77l-14.03-28.06z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10071"
+       y2="636.82"
+       gradientUnits="userSpaceOnUse"
+       x2="462.05"
+       y1="607.26"
+       x1="462.05">
+      <stop
+         id="stop10073"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop10075"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath10107"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10109"
+         clip-rule="evenodd"
+         d="m352.94 635.76v-30.61h51.02v30.61h-51.02zm-352.94 207.24h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10117"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10119"
+         clip-rule="evenodd"
+         d="m351.5 606.59h51.024v30.614h-51.024v-30.614z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10121"
+       y2="637.95"
+       gradientUnits="userSpaceOnUse"
+       x2="377.01"
+       y1="605.84"
+       x1="377.01">
+      <stop
+         id="stop10123"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop10125"
+         stop-color="#00b0f0"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath10153"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10155"
+         clip-rule="evenodd"
+         d="m353.64 539.67-21.26-42.52h70.87l21.26 42.52h-70.87zm-353.64 303.33h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10163"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10165"
+         clip-rule="evenodd"
+         d="m330.94 498.59h70.87l21.26 42.52h-70.87l-21.26-42.52z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10167"
+       y2="541.86"
+       gradientUnits="userSpaceOnUse"
+       x2="377.01"
+       y1="497.84"
+       x1="377.01">
+      <stop
+         id="stop10169"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop10171"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath10223"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10225"
+         clip-rule="evenodd"
+         d="m177.54 656.6c-29.94 0-54.21-16.18-54.21-36.14s24.27-36.14 54.21-36.14 54.21 16.18 54.21 36.14-24.27 36.14-54.21 36.14zm-177.54 186.4h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10233"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10235"
+         clip-rule="evenodd"
+         d="m121.89 621.9c0 19.96 24.27 36.14 54.21 36.14s54.21-16.18 54.21-36.14-24.27-36.14-54.21-36.14-54.21 16.18-54.21 36.14z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10237"
+       y2="658.79"
+       gradientUnits="userSpaceOnUse"
+       x2="176.1"
+       y1="585.01"
+       x1="176.1">
+      <stop
+         id="stop10239"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop10241"
+         stop-color="#00b0f0"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath10273"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10275"
+         clip-rule="evenodd"
+         d="m111.99 546.47c-23.482 0-42.519-12.69-42.518-28.34 0-15.66 19.036-28.35 42.518-28.35 23.48 0 42.52 12.69 42.52 28.35 0 15.65-19.04 28.34-42.52 28.34zm-111.99 296.53h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10283"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10285"
+         clip-rule="evenodd"
+         d="m68.031 519.57c0 15.65 19.037 28.34 42.519 28.34 23.48 0 42.52-12.69 42.52-28.34 0-15.66-19.04-28.35-42.52-28.35-23.482 0-42.518 12.69-42.519 28.35z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10287"
+       y2="548.66"
+       gradientUnits="userSpaceOnUse"
+       x2="110.55"
+       y1="490.47"
+       x1="110.55">
+      <stop
+         id="stop10289"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop10291"
+         stop-color="#00b0f0"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath10307"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10309"
+         clip-rule="evenodd"
+         d="m239.55 546.47c-23.48 0-42.52-12.69-42.52-28.34 0-15.66 19.04-28.35 42.52-28.35s42.52 12.69 42.52 28.35c0 15.65-19.04 28.34-42.52 28.34zm-239.55 296.53h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10317"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10319"
+         clip-rule="evenodd"
+         d="m195.59 519.57c0 15.65 19.04 28.34 42.52 28.34s42.52-12.69 42.52-28.34c0-15.66-19.04-28.35-42.52-28.35s-42.52 12.69-42.52 28.35z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10321"
+       y2="548.66"
+       gradientUnits="userSpaceOnUse"
+       x2="238.11"
+       y1="490.47"
+       x1="238.11">
+      <stop
+         id="stop10323"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop10325"
+         stop-color="#00b0f0"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath10341"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10343"
+         clip-rule="evenodd"
+         d="m201.28 362.5v-45.92h76.54v45.92h-76.54zm-201.28 480.5h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10351"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10353"
+         clip-rule="evenodd"
+         d="m199.84 318.02h76.535v45.921h-76.535v-45.921z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10355"
+       y2="364.69"
+       gradientUnits="userSpaceOnUse"
+       x2="238.11"
+       y1="317.27"
+       x1="238.11">
+      <stop
+         id="stop10357"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop10359"
+         stop-color="#00b0f0"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath10379"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10381"
+         clip-rule="evenodd"
+         d="m93.637 447.54-15.732-31.46h52.445l15.73 31.46h-52.443zm-93.637 395.46h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10389"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10391"
+         clip-rule="evenodd"
+         d="m76.465 417.52h52.445l15.73 31.46h-52.443l-15.732-31.46z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10393"
+       y2="449.73"
+       gradientUnits="userSpaceOnUse"
+       x2="110.55"
+       y1="416.77"
+       x1="110.55">
+      <stop
+         id="stop10395"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop10397"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath10437"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10439"
+         clip-rule="evenodd"
+         d="m221.2 447.26-15.74-31.46h52.44l15.74 31.46h-52.44zm-221.2 395.74h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10447"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10449"
+         clip-rule="evenodd"
+         d="m204.02 417.24h52.44l15.74 31.46h-52.44l-15.74-31.46z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10451"
+       y2="449.45"
+       gradientUnits="userSpaceOnUse"
+       x2="238.11"
+       y1="416.49"
+       x1="238.11">
+      <stop
+         id="stop10453"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop10455"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath10487"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10489"
+         clip-rule="evenodd"
+         d="m201.51 288.8-28.35-56.69h104.43l28.35 56.69h-104.43zm-201.51 554.2h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10497"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10499"
+         clip-rule="evenodd"
+         d="m171.72 233.55h104.43l28.35 56.69h-104.43l-28.35-56.69z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10501"
+       y2="290.99"
+       gradientUnits="userSpaceOnUse"
+       x2="238.11"
+       y1="232.8"
+       x1="238.11">
+      <stop
+         id="stop10503"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop10505"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath10585"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10587"
+         clip-rule="evenodd"
+         d="m114.83 227.86c-28.771 0-52.091-15.55-52.091-34.73 0-19.17 23.32-34.72 52.091-34.72 28.76 0 52.08 15.55 52.08 34.72 0 19.18-23.32 34.73-52.08 34.73zm-114.83 615.14h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10595"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10597"
+         clip-rule="evenodd"
+         d="m61.299 194.57c0 19.18 23.32 34.73 52.091 34.73 28.76 0 52.08-15.55 52.08-34.73 0-19.17-23.32-34.72-52.08-34.72-28.771 0-52.091 15.55-52.091 34.72z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10599"
+       y2="230.05"
+       gradientUnits="userSpaceOnUse"
+       x2="113.39"
+       y1="159.1"
+       x1="113.39">
+      <stop
+         id="stop10601"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop10603"
+         stop-color="#ff0000"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath10635"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10637"
+         clip-rule="evenodd"
+         d="m568.37 436.91c-26.18 0-47.4-12.85-47.4-28.7s21.22-28.7 47.4-28.7 47.39 12.85 47.39 28.7-21.22 28.7-47.39 28.7zm-568.37 406.09h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10645"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10647"
+         clip-rule="evenodd"
+         d="m519.53 409.65c0 15.85 21.22 28.7 47.4 28.7 26.17 0 47.39-12.85 47.39-28.7s-21.22-28.7-47.39-28.7c-26.18 0-47.4 12.85-47.4 28.7z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10649"
+       y2="439.1"
+       gradientUnits="userSpaceOnUse"
+       x2="566.93"
+       y1="380.2"
+       x1="566.93">
+      <stop
+         id="stop10651"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop10653"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath10697"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10699"
+         clip-rule="evenodd"
+         d="m114.83 121.56c-23.487 0-42.524-12.69-42.524-28.346s19.037-28.347 42.524-28.347c23.48 0 42.52 12.691 42.52 28.347s-19.04 28.346-42.52 28.346zm-114.83 721.44h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10707"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10709"
+         clip-rule="evenodd"
+         d="m70.866 94.653c0 15.657 19.037 28.347 42.524 28.347 23.48 0 42.52-12.69 42.52-28.346s-19.04-28.347-42.52-28.347c-23.487 0-42.524 12.691-42.524 28.347v-0.001z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10711"
+       y2="123.75"
+       gradientUnits="userSpaceOnUse"
+       x2="113.39"
+       y1="65.557"
+       x1="113.39">
+      <stop
+         id="stop10713"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop10715"
+         stop-color="#00b0f0"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath10739"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10741"
+         clip-rule="evenodd"
+         d="m221.2 108.95-15.74-31.469h52.44l15.74 31.469h-52.44zm-221.2 734.05h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10749"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10751"
+         clip-rule="evenodd"
+         d="m204.02 78.921h52.44l15.74 31.469h-52.44l-15.74-31.469z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10753"
+       y2="111.14"
+       gradientUnits="userSpaceOnUse"
+       x2="238.11"
+       y1="78.171"
+       x1="238.11">
+      <stop
+         id="stop10755"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop10757"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath10793"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10795"
+         clip-rule="evenodd"
+         d="m317.18 194.62-24.87-49.74h108.43l24.87 49.74h-108.43zm-317.18 648.38h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10803"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10805"
+         clip-rule="evenodd"
+         d="m290.87 146.32h108.43l24.87 49.74h-108.43l-24.87-49.74z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10807"
+       y2="196.81"
+       gradientUnits="userSpaceOnUse"
+       x2="357.52"
+       y1="145.57"
+       x1="357.52">
+      <stop
+         id="stop10809"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop10811"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath10883"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10885"
+         clip-rule="evenodd"
+         d="m568.37 362.5c-25.83 0-46.77-12.68-46.77-28.32s20.94-28.32 46.77-28.32 46.77 12.68 46.77 28.32-20.94 28.32-46.77 28.32zm-568.37 480.5h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10893"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10895"
+         clip-rule="evenodd"
+         d="m520.16 335.62c0 15.64 20.94 28.32 46.77 28.32s46.77-12.68 46.77-28.32-20.94-28.32-46.77-28.32-46.77 12.68-46.77 28.32z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10897"
+       y2="364.69"
+       gradientUnits="userSpaceOnUse"
+       x2="566.93"
+       y1="306.55"
+       x1="566.93">
+      <stop
+         id="stop10899"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop10901"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath10945"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10947"
+         clip-rule="evenodd"
+         d="m582.2 237.78-21.99-43.98h90.71l21.99 43.98h-90.71zm-582.2 605.22h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10955"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10957"
+         clip-rule="evenodd"
+         d="m558.77 195.24h90.71l21.99 43.98h-90.71l-21.99-43.98z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10959"
+       y2="239.97"
+       gradientUnits="userSpaceOnUse"
+       x2="615.12"
+       y1="194.49"
+       x1="615.12">
+      <stop
+         id="stop10961"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop10963"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath11007"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11009"
+         clip-rule="evenodd"
+         d="m480.5 237.78-22.68-45.35h90.71l22.67 45.35h-90.7zm-480.5 605.22h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath11017"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11019"
+         clip-rule="evenodd"
+         d="m456.38 193.87h90.71l22.67 45.35h-90.7l-22.68-45.35z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient11021"
+       y2="239.97"
+       gradientUnits="userSpaceOnUse"
+       x2="513.07"
+       y1="193.12"
+       x1="513.07">
+      <stop
+         id="stop11023"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop11025"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath11073"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11075"
+         clip-rule="evenodd"
+         d="m812.15 118.73c-21.14 0-38.27-11.43-38.27-25.516 0-14.09 17.13-25.512 38.27-25.512 21.13 0 38.27 11.422 38.27 25.512 0 14.086-17.14 25.516-38.27 25.516zm-812.15 724.27h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath11083"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11085"
+         clip-rule="evenodd"
+         d="m772.44 94.654c0 14.086 17.13 25.516 38.27 25.516 21.13 0 38.27-11.43 38.27-25.516 0-14.09-17.14-25.512-38.27-25.512-21.14 0-38.27 11.422-38.27 25.512z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient11087"
+       y2="120.92"
+       gradientUnits="userSpaceOnUse"
+       x2="810.71"
+       y1="68.392"
+       x1="810.71">
+      <stop
+         id="stop11089"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop11091"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath11143"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11145"
+         clip-rule="evenodd"
+         d="m813.57 513.69c-20.36 0-36.85-11-36.85-24.57s16.49-24.57 36.85-24.57c20.35 0 36.85 11 36.85 24.57s-16.5 24.57-36.85 24.57zm-813.57 329.31h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath11153"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11155"
+         clip-rule="evenodd"
+         d="m775.28 490.56c0 13.57 16.49 24.57 36.85 24.57 20.35 0 36.85-11 36.85-24.57s-16.5-24.57-36.85-24.57c-20.36 0-36.85 11-36.85 24.57z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient11157"
+       y2="515.88"
+       gradientUnits="userSpaceOnUse"
+       x2="812.13"
+       y1="465.24"
+       x1="812.13">
+      <stop
+         id="stop11159"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop11161"
+         stop-color="#00b0f0"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath11181"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11183"
+         clip-rule="evenodd"
+         d="m814.27 325.65c-20.74 0-37.55-11.21-37.55-25.03 0-13.83 16.81-25.04 37.55-25.04 20.75 0 37.56 11.21 37.56 25.04 0 13.82-16.81 25.03-37.56 25.03zm-814.27 517.35h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath11191"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11193"
+         clip-rule="evenodd"
+         d="m775.28 302.06c0 13.82 16.81 25.03 37.55 25.03 20.75 0 37.56-11.21 37.56-25.03 0-13.83-16.81-25.04-37.56-25.04-20.74 0-37.55 11.21-37.55 25.04z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient11195"
+       y2="327.84"
+       gradientUnits="userSpaceOnUse"
+       x2="812.83"
+       y1="276.27"
+       x1="812.83">
+      <stop
+         id="stop11197"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop11199"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath11247"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11249"
+         clip-rule="evenodd"
+         d="m693.09 237.78-22.67-45.35h68.03l22.68 45.35h-68.04zm-693.09 605.22h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath11257"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11259"
+         clip-rule="evenodd"
+         d="m668.98 193.87h68.03l22.67 45.35h-68.03l-22.67-45.35z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient11261"
+       y2="239.97"
+       gradientUnits="userSpaceOnUse"
+       x2="714.33"
+       y1="193.12"
+       x1="714.33">
+      <stop
+         id="stop11263"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop11265"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath11297"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11299"
+         clip-rule="evenodd"
+         d="m812.15 183.92c-20.94 0-37.91-11.31-37.91-25.27s16.97-25.28 37.91-25.28 37.91 11.32 37.91 25.28-16.97 25.27-37.91 25.27zm-812.15 659.08h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath11307"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11309"
+         clip-rule="evenodd"
+         d="m772.8 160.09c0 13.96 16.97 25.27 37.91 25.27s37.91-11.31 37.91-25.27-16.97-25.28-37.91-25.28-37.91 11.32-37.91 25.28z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient11311"
+       y2="186.11"
+       gradientUnits="userSpaceOnUse"
+       x2="810.71"
+       y1="134.06"
+       x1="810.71">
+      <stop
+         id="stop11313"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop11315"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath11339"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11341"
+         clip-rule="evenodd"
+         d="m813.57 452.27c-20.36 0-36.85-11-36.85-24.57s16.49-24.57 36.85-24.57c20.35 0 36.85 11 36.85 24.57s-16.5 24.57-36.85 24.57zm-813.57 390.73h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath11349"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11351"
+         clip-rule="evenodd"
+         d="m775.28 429.14c0 13.57 16.49 24.57 36.85 24.57 20.35 0 36.85-11 36.85-24.57s-16.5-24.57-36.85-24.57c-20.36 0-36.85 11-36.85 24.57z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient11353"
+       y2="454.46"
+       gradientUnits="userSpaceOnUse"
+       x2="812.13"
+       y1="403.82"
+       x1="812.13">
+      <stop
+         id="stop11355"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop11357"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath11381"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11383"
+         clip-rule="evenodd"
+         d="m890.9 236.53-21.43-42.86h70.86l21.43 42.86h-70.86zm-890.9 606.47h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath11391"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11393"
+         clip-rule="evenodd"
+         d="m868.03 195.11h70.86l21.43 42.86h-70.86l-21.43-42.86z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient11395"
+       y2="238.72"
+       gradientUnits="userSpaceOnUse"
+       x2="914.17"
+       y1="194.36"
+       x1="914.17">
+      <stop
+         id="stop11397"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop11399"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath11435"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11437"
+         clip-rule="evenodd"
+         d="m780.97 229.28v-28.35h62.36v28.35h-62.36zm-780.97 613.72h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath11445"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11447"
+         clip-rule="evenodd"
+         d="m779.53 202.37h62.362v28.346h-62.362v-28.346z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient11449"
+       y2="231.47"
+       gradientUnits="userSpaceOnUse"
+       x2="810.71"
+       y1="201.62"
+       x1="810.71">
+      <stop
+         id="stop11451"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop11453"
+         stop-color="#00b0f0"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath11485"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11487"
+         clip-rule="evenodd"
+         d="m1038.9 538.25c-25.83 0-46.77-13.96-46.77-31.18s20.94-31.18 46.77-31.18 46.77 13.96 46.77 31.18-20.94 31.18-46.77 31.18zm-1038.9 304.75h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath11495"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11497"
+         clip-rule="evenodd"
+         d="m990.71 508.51c0 17.22 20.94 31.18 46.77 31.18s46.77-13.96 46.77-31.18-20.94-31.18-46.77-31.18-46.77 13.96-46.77 31.18z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient11499"
+       y2="540.44"
+       gradientUnits="userSpaceOnUse"
+       x2="1037.5"
+       y1="476.58"
+       x1="1037.5">
+      <stop
+         id="stop11501"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop11503"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath11575"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11577"
+         clip-rule="evenodd"
+         d="m1011 147.07-17.86-35.73h73.7l17.86 35.73h-73.7zm-1011 695.93h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath11585"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11587"
+         clip-rule="evenodd"
+         d="m991.7 112.78h73.7l17.86 35.73h-73.7l-17.86-35.73z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient11589"
+       y2="149.26"
+       gradientUnits="userSpaceOnUse"
+       x2="1037.5"
+       y1="112.03"
+       x1="1037.5">
+      <stop
+         id="stop11591"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop11593"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath11625"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11627"
+         clip-rule="evenodd"
+         d="m1003.5 237.78v-42.52h70.86v42.52h-70.86zm-1003.5 605.22h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath11635"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11637"
+         clip-rule="evenodd"
+         d="m1002 196.7h70.866v42.52h-70.866v-42.52z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient11639"
+       y2="239.97"
+       gradientUnits="userSpaceOnUse"
+       x2="1037.5"
+       y1="195.95"
+       x1="1037.5">
+      <stop
+         id="stop11641"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop11643"
+         stop-color="#00b0f0"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath11671"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11673"
+         clip-rule="evenodd"
+         d="m929.79 156.52c-22.7 0-41.11-12.27-41.11-27.4s18.41-27.4 41.11-27.4 41.1 12.27 41.1 27.4-18.4 27.4-41.1 27.4zm-929.79 686.48h1134.8v-843h-1134.8v843z" />
+    </clipPath>
+    <clipPath
+       id="clipPath11681"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11683"
+         clip-rule="evenodd"
+         d="m887.24 130.56c0 15.13 18.41 27.4 41.11 27.4s41.1-12.27 41.1-27.4-18.4-27.4-41.1-27.4-41.11 12.27-41.11 27.4z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient11685"
+       y2="158.71"
+       gradientUnits="userSpaceOnUse"
+       x2="928.35"
+       y1="102.41"
+       x1="928.35">
+      <stop
+         id="stop11687"
+         stop-color="#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop11689"
+         stop-color="#00b0f0"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1"
+     transform="matrix(.99005 0 0 1.0189 4.1192 -8.9577)">
+    <g
+       id="g9353"
+       transform="matrix(.71513 0 0 -1.0481 -47.908 863.15)">
+      <g
+         id="g9355"
+         style="fill:#ffffff">
+        <g
+           id="g9357"
+           clip-path="url(#clipPath9359)"
+           style="fill:#ffffff">
+          <path
+             id="path9369"
+             fill-rule="evenodd"
+             fill="url(#linearGradient9363)"
+             d="m464.13 306.5h205.59v233.94h-205.59v-233.94z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path9371"
+         stroke-linejoin="round"
+         d="m464.88 307.25h204.09v232.44h-204.09v-232.44z"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <g
+         font-size="7.9999px"
+         font-weight="bold"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g328">
+        <text
+           id="text9373"
+           transform="matrix(1,0,0,-1,512.47,530.49)">
+          <tspan
+             id="tspan9375"
+             y="0"
+             x="0 3.781224 8.074152 12.101472 15.44904 18.222551 21.066336 25.01568 26.98056 28.7892 33.293015 37.242359 41.53529 43.500168 47.449512 51.742439 55.090008 59.117329 60.925968 64.875313 69.168243 73.461166 75.269806 77.402519 80.246307 83.090088 87.039429 91.332359 93.297241 97.246582 101.53951 104.88708">Spectral Radiance and Irradiance</tspan>
+        </text>
+        <text
+           id="text9377"
+           transform="matrix(1,0,0,-1,517.57,520.89)">
+          <tspan
+             id="tspan9379"
+             y="0"
+             x="0 4.25772 7.1015038 9.0663843 15.574104 19.523449 22.367231 26.156448 27.965088 31.746311 35.09388 39.043224 41.008102 45.035423 48.226967 50.035606 53.707535 57.656879 61.004448 62.96933 64.934212 66.899086 69.6726 73.461815">Primary Scales Facility</tspan>
+        </text>
+        <text
+           id="text9381"
+           transform="matrix(1,0,0,-1,592.84,520.89)">
+          <tspan
+             id="tspan9383"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text9385"
+           transform="matrix(1,0,0,-1,595.34,520.89)">
+          <tspan
+             id="tspan9387"
+             y="0"
+             x="0 3.781224 8.2850399 10.417752 14.675472">SRIPS</tspan>
+        </text>
+        <text
+           id="text9389"
+           transform="matrix(1,0,0,-1,613.79,520.89)">
+          <tspan
+             id="tspan9391"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <g
+         id="g9393"
+         style="fill:#ffffff">
+        <g
+           id="g9395"
+           clip-path="url(#clipPath9397)"
+           style="fill:#ffffff">
+          <path
+             id="path9407"
+             fill-rule="evenodd"
+             fill="url(#linearGradient9401)"
+             d="m712.16 275.08h205.59v265.36h-205.59v-265.36z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path9409"
+         stroke-linejoin="round"
+         d="m712.91 275.83h204.09v263.86h-204.09v-263.86z"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g344">
+        <g
+           font-weight="bold"
+           id="g346">
+          <text
+             id="text9411"
+             transform="matrix(1,0,0,-1,739.56,530.49)">
+            <tspan
+               id="tspan9413"
+               y="0"
+               x="0 5.269608 9.2189522 11.992464 13.957344 18.258192 22.551121 26.500463 28.465343 30.273985 34.777802 38.805119 41.336353 43.301231 47.328552 50.676121 53.449631 57.398975 61.691902 65.039474 69.066795 70.875435 75.37925 79.40657 81.937798 85.965118 88.808907 92.836227 97.12915 100.47672 104.50404 106.31268 109.98461 113.93395 117.28152 119.2464 121.21128 123.17616 125.94967 129.73889">National Reflectance Reference Facility</tspan>
+          </text>
+          <text
+             id="text9415"
+             transform="matrix(1,0,0,-1,871.1,530.49)">
+            <tspan
+               id="tspan9417"
+               y="0"
+               x="0">(</tspan>
+          </text>
+          <text
+             id="text9419"
+             transform="matrix(1,0,0,-1,873.6,530.49)">
+            <tspan
+               id="tspan9421"
+               y="0"
+               x="0 5.269608 9.7734241">NRR</tspan>
+          </text>
+          <text
+             id="text9423"
+             transform="matrix(1,0,0,-1,887.87,530.49)">
+            <tspan
+               id="tspan9425"
+               y="0"
+               x="0 2.49228">)</tspan>
+          </text>
+        </g>
+        <text
+           id="text9427"
+           transform="matrix(1,0,0,-1,757.36,520.89)">
+          <tspan
+             id="tspan9429"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text9431"
+           transform="matrix(1,0,0,-1,759.78,520.89)">
+          <tspan
+             id="tspan9433"
+             y="0"
+             x="0 3.8985119 8.1015844 12.08196 13.8906 18.234287 22.214664 24.656113 26.491896 30.472273 33.854977 36.534527 40.366585 44.569656 47.952358 51.932735 53.741375 57.874176 60.663311 62.499096 68.889603 72.721657 75.510796 79.131889 80.940529 84.616272 87.295822 91.127876 95.330956 99.534027 103.36608 106.15521">The Reflectance Primary Standard</tspan>
+        </text>
+        <text
+           id="text9435"
+           transform="matrix(1,0,0,-1,870.14,520.89)">
+          <tspan
+             id="tspan9437"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path9439"
+         d="m523.01 72.469h89.291v40.587h-89.291v-40.587z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g9441">
+        <g
+           id="g9443"
+           clip-path="url(#clipPath9445)">
+          <path
+             id="path9449"
+             stroke-linejoin="round"
+             d="m523.01 72.469h89.3v40.591h-89.3v-40.591"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g9451">
+        <g
+           id="g9453"
+           clip-path="url(#clipPath9455)">
+          <path
+             id="path9465"
+             fill-rule="evenodd"
+             fill="url(#linearGradient9459)"
+             d="m520.82 73.159h90.791v42.087h-90.791v-42.087z" />
+        </g>
+      </g>
+      <path
+         id="path9467"
+         stroke-linejoin="round"
+         d="m521.57 73.909h89.291v40.587h-89.291v-40.587z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <text
+         id="text9469"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,529.9,96.603)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan9471"
+           y="0"
+           x="0 5.296752 9.5624638 13.906152 15.714792 17.730503 20.51964 23.308777 27.140833 31.343904 33.179688 37.011745 41.214817 44.597519 48.577896 50.386536 54.062279 58.281048 62.484119 65.273254 68.65596">OCR Irradiance Source</tspan>
+      </text>
+      <text
+         id="text9473"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,548.46,87.003)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan9475"
+           y="0"
+           x="0 4.2657118 8.0977678 9.9335518 11.769336 15.972408 18.761543 22.593599 25.273151 27.108936 31.327703">Calibration</tspan>
+      </text>
+      <path
+         id="path9477"
+         d="m498.92 741.4c0 25.57 31.09 46.3 69.45 46.3 38.35 0 69.45-20.73 69.45-46.3s-31.1-46.3-69.45-46.3c-38.36 0-69.45 20.73-69.45 46.3z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g9479">
+        <g
+           id="g9481"
+           clip-path="url(#clipPath9483)">
+          <path
+             id="path9487"
+             stroke-linejoin="round"
+             d="m498.92 741.4c0 25.57 31.09 46.3 69.45 46.3 38.35 0 69.45-20.73 69.45-46.3s-31.1-46.3-69.45-46.3c-38.36 0-69.45 20.73-69.45 46.3"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g9489">
+        <g
+           id="g9491"
+           clip-path="url(#clipPath9493)"
+           style="fill:#ffffff">
+          <path
+             id="path9503"
+             fill-rule="evenodd"
+             fill="url(#linearGradient9497)"
+             d="m496.73 695.79h140.4v94.098h-140.4v-94.098z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path9505"
+         stroke-linejoin="round"
+         d="m497.48 742.84c0 25.57 31.09 46.3 69.45 46.3 38.35 0 69.45-20.73 69.45-46.3s-31.1-46.3-69.45-46.3c-38.36 0-69.45 20.73-69.45 46.3z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g382">
+        <text
+           id="text9507"
+           transform="matrix(1,0,0,-1,530.87,750.04)">
+          <tspan
+             id="tspan9509"
+             y="0"
+             x="0 4.2657118 7.0548482 10.675944 14.894712 18.66024 22.640615 26.843687 28.679472 32.062176 33.870815 38.214504 42.046558 46.249634 48.085415 52.304184 58.694687 62.675064 65.354614 69.334991">Cryogenic Radiometer</tspan>
+        </text>
+        <text
+           id="text9511"
+           transform="matrix(1,0,0,-1,517.24,740.44)">
+          <tspan
+             id="tspan9513"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text9515"
+           transform="matrix(1,0,0,-1,519.67,740.44)">
+          <tspan
+             id="tspan9517"
+             y="0"
+             x="0 3.8985119 8.1015844 12.08196 13.8906 19.187351 23.390425 26.069977 27.90576 31.288464 35.120522 36.956303 38.764942 43.108631 46.940689 51.143761 52.979546 56.8116 59.491154 61.326935 65.545708 69.748779 71.557419 75.690216 78.479355 80.31514 86.705643 90.537697 93.326836 96.947929">The Optical Radiation Primary</tspan>
+        </text>
+        <text
+           id="text9519"
+           transform="matrix(1,0,0,-1,551.01,730.84)">
+          <tspan
+             id="tspan9521"
+             y="0"
+             x="0 3.6757441 6.3552961 10.187352 14.390424 18.593496 22.425552 25.214687">Standard</tspan>
+        </text>
+        <text
+           id="text9523"
+           transform="matrix(1,0,0,-1,580.43,730.84)">
+          <tspan
+             id="tspan9525"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path9527"
+         d="m658.37 620.46c0 19.96 24.27 36.14 54.21 36.14s54.21-16.18 54.21-36.14-24.27-36.14-54.21-36.14-54.21 16.18-54.21 36.14z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g9529">
+        <g
+           id="g9531"
+           clip-path="url(#clipPath9533)">
+          <path
+             id="path9537"
+             stroke-linejoin="round"
+             d="m658.37 620.46c0 19.96 24.27 36.14 54.21 36.14s54.21-16.18 54.21-36.14-24.27-36.14-54.21-36.14-54.21 16.18-54.21 36.14"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g9539"
+         style="fill:#ffffff">
+        <g
+           id="g9541"
+           clip-path="url(#clipPath9543)"
+           style="fill:#ffffff">
+          <path
+             id="path9553"
+             fill-rule="evenodd"
+             fill="url(#linearGradient9547)"
+             d="m656.18 585.01h109.93v73.783h-109.93v-73.783z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path9555"
+         stroke-linejoin="round"
+         d="m656.93 621.9c0 19.96 24.27 36.14 54.21 36.14s54.21-16.18 54.21-36.14-24.27-36.14-54.21-36.14-54.21 16.18-54.21 36.14z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <text
+         id="text9557"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,692.08,638.7)"
+         font-family="CALIBRI"
+         fill="#79ff28"
+         style="fill:#000000;">
+        <tspan
+           id="tspan9559"
+           y="0"
+           x="0 4.1561279 6.9452639 10.56636 14.769432 17.448984 21.667751 25.870825 27.679464 29.695175 33.913944"
+           style="fill:#000000;">Krypton Ion</tspan>
+      </text>
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g404">
+        <text
+           id="text9561"
+           transform="matrix(1,0,0,-1,675.63,629.1)">
+          <tspan
+             id="tspan9563"
+             y="0"
+             x="0 2.449152 4.898304 7.347456 9.796608 12.24576 14.694912 17.144064 19.593216 22.042368 24.49152 26.940672 29.389824 31.838976 34.288128 36.737282 39.186432 41.635586 44.084736 46.53389 48.98304 51.432194 53.881344 56.330498 58.779648 61.228802 63.677952 66.127106 68.576256">-----------------------------</tspan>
+        </text>
+        <text
+           id="text9565"
+           transform="matrix(1,0,0,-1,687.39,619.5)">
+          <tspan
+             id="tspan9567"
+             y="0"
+             x="0 3.8985119 8.1015844 12.304656 16.285032 20.117088 24.32016 26.155945 30.13632 31.94496 33.780743 37.612801 40.741703 44.72208">Tuneable laser</tspan>
+        </text>
+        <text
+           id="text9569"
+           transform="matrix(1,0,0,-1,674.4,609.9)">
+          <tspan
+             id="tspan9571"
+             y="0"
+             x="0 2.449152 4.898304 7.347456 9.796608 12.24576 14.694912 17.144064 19.593216 22.042368 24.49152 26.940672 29.389824 31.838976 34.288128 36.737282 39.186432 41.635586 44.084736 46.53389 48.98304 51.432194 53.881344 56.330498 58.779648 61.228802 63.677952 66.127106 68.576256 71.025406">------------------------------</tspan>
+        </text>
+      </g>
+      <path
+         id="path9573"
+         stroke-linejoin="round"
+         d="m711.14 658.04c0 17.24-35.99 17.24-71.97 17.24-32.86 0-65.71 0-71.38 16"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path9575"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m566.93 696.54 4.61-6.38c-2.37 0.74-4.94 0.32-6.95-1.13l2.34 7.51z" />
+      <path
+         id="path9577"
+         d="m576.87 490.06c0 13.57 16.5 24.57 36.85 24.57 20.36 0 36.85-11 36.85-24.57 0-13.56-16.49-24.56-36.85-24.56-20.35 0-36.85 11-36.85 24.56z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g9579">
+        <g
+           id="g9581"
+           clip-path="url(#clipPath9583)">
+          <path
+             id="path9587"
+             stroke-linejoin="round"
+             d="m576.87 490.06c0 13.57 16.5 24.57 36.85 24.57 20.36 0 36.85-11 36.85-24.57 0-13.56-16.49-24.56-36.85-24.56-20.35 0-36.85 11-36.85 24.56"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g9589"
+         style="fill:#ffffff">
+        <g
+           id="g9591"
+           clip-path="url(#clipPath9593)"
+           style="fill:#ffffff">
+          <path
+             id="path9603"
+             fill-rule="evenodd"
+             fill="url(#linearGradient9597)"
+             d="m574.68 466.19h75.201v50.634h-75.201v-50.634z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path9605"
+         stroke-linejoin="round"
+         d="m575.43 491.5c0 13.57 16.5 24.57 36.85 24.57 20.36 0 36.85-11 36.85-24.57 0-13.56-16.49-24.56-36.85-24.56-20.35 0-36.85 11-36.85 24.56z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <text
+         id="text9607"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,585.81,489.1)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan9609"
+           y="0"
+           x="0 3.6757441 8.0194321 10.035144 14.167944 17.843687 19.652328 24.003719 25.839504 29.67156 33.054264 36.690983 40.894054 45.112823 49.315895">SRIPS Blackbody</tspan>
+      </text>
+      <path
+         id="path9611"
+         d="m480.5 489.12c0 13.57 16.49 24.57 36.85 24.57 20.35 0 36.85-11 36.85-24.57s-16.5-24.57-36.85-24.57c-20.36 0-36.85 11-36.85 24.57z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g9613">
+        <g
+           id="g9615"
+           clip-path="url(#clipPath9617)">
+          <path
+             id="path9621"
+             stroke-linejoin="round"
+             d="m480.5 489.12c0 13.57 16.49 24.57 36.85 24.57 20.35 0 36.85-11 36.85-24.57s-16.5-24.57-36.85-24.57c-20.36 0-36.85 11-36.85 24.57"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g9623"
+         style="fill:#ffffff">
+        <g
+           id="g9625"
+           clip-path="url(#clipPath9627)"
+           style="fill:#ffffff">
+          <path
+             id="path9637"
+             fill-rule="evenodd"
+             fill="url(#linearGradient9631)"
+             d="m478.31 465.24h75.201v50.634h-75.201v-50.634z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path9639"
+         stroke-linejoin="round"
+         d="m479.06 490.56c0 13.57 16.49 24.57 36.85 24.57 20.35 0 36.85-11 36.85-24.57s-16.5-24.57-36.85-24.57c-20.36 0-36.85 11-36.85 24.57z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g432">
+        <text
+           id="text9641"
+           transform="matrix(1,0,0,-1,491.62,497.76)">
+          <tspan
+             id="tspan9643"
+             y="0"
+             x="0 5.296752 9.5624638 13.906152 15.714792 17.730503 20.51964 23.308777 27.140833 31.343904 33.179688 37.011745 41.214817 44.597519 48.577896">OCR Irradiance</tspan>
+        </text>
+        <text
+           id="text9645"
+           transform="matrix(1,0,0,-1,504.78,488.16)">
+          <tspan
+             id="tspan9647"
+             y="0"
+             x="0 3.6757441 7.8945122 12.097584 14.88672 18.269424">Source</tspan>
+        </text>
+        <text
+           id="text9649"
+           transform="matrix(1,0,0,-1,491.41,478.56)">
+          <tspan
+             id="tspan9651"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text9653"
+           transform="matrix(1,0,0,-1,493.84,478.56)">
+          <tspan
+             id="tspan9655"
+             y="0"
+             x="0">e</tspan>
+        </text>
+        <text
+           id="text9657"
+           transform="matrix(1,0,0,-1,497.82,478.56)">
+          <tspan
+             id="tspan9659"
+             y="0"
+             x="0">.</tspan>
+        </text>
+        <text
+           id="text9661"
+           transform="matrix(1,0,0,-1,499.84,478.56)">
+          <tspan
+             id="tspan9663"
+             y="0"
+             x="0">g</tspan>
+        </text>
+        <text
+           id="text9665"
+           transform="matrix(1,0,0,-1,503.6,478.56)">
+          <tspan
+             id="tspan9667"
+             y="0"
+             x="0 2.0195279">.</tspan>
+        </text>
+        <text
+           id="text9669"
+           transform="matrix(1,0,0,-1,507.43,478.56)">
+          <tspan
+             id="tspan9671"
+             y="0"
+             x="0 3.6757441 7.5819602 10.945152 12.753792 16.116983 19.949039 26.339544">FEL Lamp</tspan>
+        </text>
+        <text
+           id="text9673"
+           transform="matrix(1,0,0,-1,537.97,478.56)">
+          <tspan
+             id="tspan9675"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path9677"
+         d="m830.57 371.01c0 13.57 16.5 24.57 36.85 24.57 20.36 0 36.85-11 36.85-24.57s-16.49-24.57-36.85-24.57c-20.35 0-36.85 11-36.85 24.57z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g9679">
+        <g
+           id="g9681"
+           clip-path="url(#clipPath9683)">
+          <path
+             id="path9687"
+             stroke-linejoin="round"
+             d="m830.57 371.01c0 13.57 16.5 24.57 36.85 24.57 20.36 0 36.85-11 36.85-24.57s-16.49-24.57-36.85-24.57c-20.35 0-36.85 11-36.85 24.57"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g9689"
+         style="fill:#ffffff">
+        <g
+           id="g9691"
+           clip-path="url(#clipPath9693)"
+           style="fill:#ffffff">
+          <path
+             id="path9703"
+             fill-rule="evenodd"
+             fill="url(#linearGradient9697)"
+             d="m828.38 347.13h75.201v50.634h-75.201v-50.634z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path9705"
+         stroke-linejoin="round"
+         d="m829.13 372.45c0 13.57 16.5 24.57 36.85 24.57 20.36 0 36.85-11 36.85-24.57s-16.49-24.57-36.85-24.57c-20.35 0-36.85 11-36.85 24.57z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g460">
+        <text
+           id="text9707"
+           transform="matrix(1,0,0,-1,838.69,374.85)">
+          <tspan
+             id="tspan9709"
+             y="0"
+             x="0 3.6757441 7.8788161 11.859192 15.241896 17.921448 20.710585 24.542641 26.378424 30.597193 34.800262 36.608906 40.741703 44.573761 48.776833 52.75721">Spectralon Panel</tspan>
+        </text>
+        <text
+           id="text9711"
+           transform="matrix(1,0,0,-1,850.69,365.25)">
+          <tspan
+             id="tspan9713"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text9715"
+           transform="matrix(1,0,0,-1,853.11,365.25)">
+          <tspan
+             id="tspan9717"
+             y="0"
+             x="0 4.9218478 6.7576318 9.1990805 11.640528 15.8436 18.972504 22.952881">Diffuser</tspan>
+        </text>
+        <text
+           id="text9719"
+           transform="matrix(1,0,0,-1,878.86,365.25)">
+          <tspan
+             id="tspan9721"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path9723"
+         stroke-linejoin="round"
+         d="m515.91 465.99c27.96-6.79 44.43-14.71 49.4-22.56"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path9725"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m566.93 438.35-5.49 5.65c2.45-0.39 4.93 0.4 6.71 2.13l-1.22-7.78z" />
+      <path
+         id="path9727"
+         d="m992.15 305.81c0 17.22 20.94 31.18 46.77 31.18s46.77-13.96 46.77-31.18-20.94-31.18-46.77-31.18-46.77 13.96-46.77 31.18z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g9729">
+        <g
+           id="g9731"
+           clip-path="url(#clipPath9733)">
+          <path
+             id="path9737"
+             stroke-linejoin="round"
+             d="m992.15 305.81c0 17.22 20.94 31.18 46.77 31.18s46.77-13.96 46.77-31.18-20.94-31.18-46.77-31.18-46.77 13.96-46.77 31.18"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g9739"
+         style="fill:#ffffff">
+        <g
+           id="g9741"
+           clip-path="url(#clipPath9743)"
+           style="fill:#ffffff">
+          <path
+             id="path9753"
+             fill-rule="evenodd"
+             fill="url(#linearGradient9747)"
+             d="m989.96 275.32h95.043v63.862h-95.043v-63.862z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path9755"
+         stroke-linejoin="round"
+         d="m990.71 307.25c0 17.22 20.94 31.18 46.77 31.18s46.77-13.96 46.77-31.18-20.94-31.18-46.77-31.18-46.77 13.96-46.77 31.18z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g480">
+        <text
+           id="text9757"
+           transform="matrix(1,0,0,-1,1017.5,319.25)">
+          <tspan
+             id="tspan9759"
+             y="0"
+             x="0 3.6757441">SI</tspan>
+        </text>
+        <text
+           id="text9761"
+           transform="matrix(1,0,0,-1,1023.2,319.25)">
+          <tspan
+             id="tspan9763"
+             y="0"
+             x="0">-</tspan>
+        </text>
+        <text
+           id="text9765"
+           transform="matrix(1,0,0,-1,1025.7,319.25)">
+          <tspan
+             id="tspan9767"
+             y="0"
+             x="0 3.8985119 6.6876478 10.519704 13.902408 17.882784 21.71484 25.917912 27.753696 31.734072">Traceable</tspan>
+        </text>
+        <text
+           id="text9769"
+           transform="matrix(1,0,0,-1,1020.8,309.65)">
+          <tspan
+             id="tspan9771"
+             y="0"
+             x="0 4.2657118 8.0977678 9.9335518 11.769336 15.972408 18.761543 22.593599 25.273151 29.253529">Calibrated</tspan>
+        </text>
+        <text
+           id="text9773"
+           transform="matrix(1,0,0,-1,1015.5,300.05)">
+          <tspan
+             id="tspan9775"
+             y="0"
+             x="0 5.296752 8.6794558 12.659832 16.491888 20.69496 22.503599 26.769312 30.988079 32.823864 37.042633 41.245705 44.03484">Ocean Colour</tspan>
+        </text>
+        <text
+           id="text9777"
+           transform="matrix(1,0,0,-1,1018.4,290.45)">
+          <tspan
+             id="tspan9779"
+             y="0"
+             x="0 4.343688 8.1757441 12.378816 14.2146 18.433369 24.823872 28.804249 31.483801 35.464176">Radiometer</tspan>
+        </text>
+      </g>
+      <path
+         id="path9781"
+         d="m1003.5 383.76h70.866v42.52h-70.866v-42.52z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g9783">
+        <g
+           id="g9785"
+           clip-path="url(#clipPath9787)">
+          <path
+             id="path9791"
+             stroke-linejoin="round"
+             d="m1003.5 383.76h70.86v42.52h-70.86v-42.52"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g9793"
+         style="fill:#ffffff">
+        <g
+           id="g9795"
+           clip-path="url(#clipPath9797)"
+           style="fill:#ffffff">
+          <path
+             id="path9807"
+             fill-rule="evenodd"
+             fill="url(#linearGradient9801)"
+             d="m1001.3 384.45h72.366v44.02h-72.366v-44.02z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path9809"
+         stroke-linejoin="round"
+         d="m1002 385.2h70.866v42.52h-70.866v-42.52z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <text
+         id="text9811"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,1021,404.06)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan9813"
+           y="0"
+           x="0 4.5390239 8.3710804 10.206864 12.042648 16.24572 20.077776 22.757328 24.593113 28.81188">Validation</tspan>
+      </text>
+      <path
+         id="path9815"
+         d="m1027.6 750.85h70.866v42.52h-70.866v-42.52z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g9817">
+        <g
+           id="g9819"
+           clip-path="url(#clipPath9821)">
+          <path
+             id="path9825"
+             stroke-linejoin="round"
+             d="m1027.6 750.85h70.87v42.52h-70.87v-42.52"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g9827">
+        <g
+           id="g9829"
+           clip-path="url(#clipPath9831)">
+          <path
+             id="path9841"
+             fill-rule="evenodd"
+             fill="url(#linearGradient9835)"
+             d="m1025.4 751.54h72.366v44.02h-72.366v-44.02z" />
+        </g>
+      </g>
+      <path
+         id="path9843"
+         stroke-linejoin="round"
+         d="m1026.1 752.29h70.866v42.52h-70.866v-42.52z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <text
+         id="text9845"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,1049.2,771.15)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan9847"
+           y="0"
+           x="0 4.1328001 6.921936 11.140704 14.523408 18.503784 21.632689">Process</tspan>
+      </text>
+      <path
+         id="path9849"
+         d="m926.24 750.85h70.87l21.26 42.52h-70.87l-21.26-42.52z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g9851">
+        <g
+           id="g9853"
+           clip-path="url(#clipPath9855)">
+          <path
+             id="path9859"
+             stroke-linejoin="round"
+             d="m926.24 750.85h70.87l21.26 42.52h-70.87l-21.26-42.52"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g9861">
+        <g
+           id="g9863"
+           clip-path="url(#clipPath9865)">
+          <path
+             id="path9875"
+             fill-rule="evenodd"
+             fill="url(#linearGradient9869)"
+             d="m924.05 751.54h93.626v44.02h-93.626v-44.02z" />
+        </g>
+      </g>
+      <path
+         id="path9877"
+         stroke-linejoin="round"
+         d="m924.8 752.29h70.87l21.26 42.52h-70.87l-21.26-42.52z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <text
+         id="text9879"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,963.23,771.15)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan9881"
+           y="0"
+           x="0 4.9218478 8.7539043 11.433456">Data</tspan>
+      </text>
+      <path
+         id="path9883"
+         d="m840.5 771.64c0 14.61 17.76 26.46 39.68 26.46s39.69-11.85 39.69-26.46-17.77-26.46-39.69-26.46-39.68 11.85-39.68 26.46z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g9885">
+        <g
+           id="g9887"
+           clip-path="url(#clipPath9889)">
+          <path
+             id="path9893"
+             stroke-linejoin="round"
+             d="m840.5 771.64c0 14.61 17.76 26.46 39.68 26.46s39.69-11.85 39.69-26.46-17.77-26.46-39.69-26.46-39.68 11.85-39.68 26.46"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g9895">
+        <g
+           id="g9897"
+           clip-path="url(#clipPath9899)">
+          <path
+             id="path9909"
+             fill-rule="evenodd"
+             fill="url(#linearGradient9903)"
+             d="m838.31 745.87h80.87v54.413h-80.87v-54.413z" />
+        </g>
+      </g>
+      <path
+         id="path9911"
+         stroke-linejoin="round"
+         d="m839.06 773.08c0 14.61 17.76 26.46 39.68 26.46s39.69-11.85 39.69-26.46-17.77-26.46-39.69-26.46-39.68 11.85-39.68 26.46z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <text
+         id="text9913"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,860.6,770.68)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan9915"
+           y="0"
+           x="0 2.015712 6.2187839 9.3476877 12.02724 14.816376 19.019447 25.409952 29.390327 33.593399">Instrument</tspan>
+      </text>
+      <path
+         id="path9917"
+         d="m204.12 148.49h70.866v42.52h-70.866v-42.52z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g9919">
+        <g
+           id="g9921"
+           clip-path="url(#clipPath9923)">
+          <path
+             id="path9927"
+             stroke-linejoin="round"
+             d="m204.12 148.49h70.86v42.52h-70.86v-42.52"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g9929">
+        <g
+           id="g9931"
+           clip-path="url(#clipPath9933)">
+          <path
+             id="path9943"
+             fill-rule="evenodd"
+             fill="url(#linearGradient9937)"
+             d="m201.93 149.18h72.366v44.02h-72.366v-44.02z" />
+        </g>
+      </g>
+      <path
+         id="path9945"
+         stroke-linejoin="round"
+         d="m202.68 149.93h70.866v42.52h-70.866v-42.52z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <text
+         id="text9947"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,211.64,173.59)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan9949"
+           y="0"
+           x="0 3.6757441 8.0194321 10.035144 14.167944 17.843687 19.652328 24.003719 25.839504 29.67156 33.054264 36.690983 40.894054 45.112823 49.315895">SRIPS Blackbody</tspan>
+      </text>
+      <text
+         id="text9951"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,220.34,163.99)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan9953"
+           y="0"
+           x="0 4.2657118 8.0977678 9.9335518 11.769336 15.972408 18.761543 22.593599 25.273151 27.108936 31.327703">Calibration</tspan>
+      </text>
+      <path
+         id="path9955"
+         stroke-linejoin="round"
+         d="m612.28 466.94c-14.41-3.01-36.96-13.98-43.51-23.58"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path9957"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m566.93 438.35-0.87 7.83c1.69-1.81 4.14-2.71 6.6-2.43l-5.73-5.4z" />
+      <path
+         id="path9959"
+         d="m344.36 659.86h52.44l15.73 31.46h-52.44l-15.73-31.46z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g9961">
+        <g
+           id="g9963"
+           clip-path="url(#clipPath9965)">
+          <path
+             id="path9969"
+             stroke-linejoin="round"
+             d="m344.36 659.86h52.44l15.73 31.46h-52.44l-15.73-31.46"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g9971">
+        <g
+           id="g9973"
+           clip-path="url(#clipPath9975)">
+          <path
+             id="path9985"
+             fill-rule="evenodd"
+             fill="url(#linearGradient9979)"
+             d="m342.17 660.55h69.673v32.965h-69.673v-32.965z" />
+        </g>
+      </g>
+      <path
+         id="path9987"
+         stroke-linejoin="round"
+         d="m342.92 661.3h52.44l15.73 31.46h-52.44l-15.73-31.46z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g556">
+        <text
+           id="text9989"
+           transform="matrix(1,0,0,-1,365.48,684.23)">
+          <tspan
+             id="tspan9991"
+             y="0"
+             x="0 5.296752 9.4998236 12.179376 14.01516 17.397863 21.229919 23.065704">Optical</tspan>
+        </text>
+        <text
+           id="text9993"
+           transform="matrix(1,0,0,-1,366.59,674.63)">
+          <tspan
+             id="tspan9995"
+             y="0"
+             x="0 4.1328001 8.3515682 14.07024 18.050615 20.839752">Power</tspan>
+        </text>
+        <text
+           id="text9997"
+           transform="matrix(1,0,0,-1,371.02,665.03)">
+          <tspan
+             id="tspan9999"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text10001"
+           transform="matrix(1,0,0,-1,373.45,665.03)">
+          <tspan
+             id="tspan10003"
+             y="0"
+             x="0">W</tspan>
+        </text>
+        <text
+           id="text10005"
+           transform="matrix(1,0,0,-1,380.57,665.03)">
+          <tspan
+             id="tspan10007"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path10009"
+         stroke-linejoin="round"
+         d="m566.93 696.54c0-4.87 0-11.18-22.77-14.76-28.83-4.55-94.18-4.74-135.6-4.75"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10011"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m403.23 677.03 7.04 3.52c-1.11-2.21-1.11-4.82 0-7.04l-7.04 3.52z" />
+      <path
+         id="path10013"
+         d="m525.85 620.46c0 15.65 19.04 28.34 42.52 28.34s42.52-12.69 42.52-28.34c0-15.66-19.04-28.35-42.52-28.35s-42.52 12.69-42.52 28.35z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g10015">
+        <g
+           id="g10017"
+           clip-path="url(#clipPath10019)">
+          <path
+             id="path10023"
+             stroke-linejoin="round"
+             d="m525.85 620.46c0 15.65 19.04 28.34 42.52 28.34s42.52-12.69 42.52-28.34c0-15.66-19.04-28.35-42.52-28.35s-42.52 12.69-42.52 28.35"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g10025"
+         style="fill:#ffffff">
+        <g
+           id="g10027"
+           clip-path="url(#clipPath10029)"
+           style="fill:#ffffff">
+          <path
+             id="path10039"
+             fill-rule="evenodd"
+             fill="url(#linearGradient10033)"
+             d="m523.66 592.8h86.539v58.193h-86.539v-58.193z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path10041"
+         stroke-linejoin="round"
+         d="m524.41 621.9c0 15.65 19.04 28.34 42.52 28.34s42.52-12.69 42.52-28.34c0-15.66-19.04-28.35-42.52-28.35s-42.52 12.69-42.52 28.35z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <text
+         id="text10043"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,544.35,624.3)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan10045"
+           y="0"
+           x="0 3.8985119 6.6876478 10.519704 14.722776 16.531416 21.453264 25.43364 28.113192 32.093567 35.476273 38.155823 42.374592">Trap Detector</tspan>
+      </text>
+      <path
+         id="path10047"
+         stroke-linejoin="round"
+         d="m656.93 621.9h-42.15"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10049"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m609.45 621.9 7.04 3.52c-1.11-2.22-1.11-4.83 0-7.04l-7.04 3.52z" />
+      <path
+         id="path10051"
+         d="m433.09 606.57h46.77l14.03 28.06h-46.77l-14.03-28.06z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g10053">
+        <g
+           id="g10055"
+           clip-path="url(#clipPath10057)">
+          <path
+             id="path10061"
+             stroke-linejoin="round"
+             d="m433.09 606.57h46.77l14.03 28.06h-46.77l-14.03-28.06"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g10063"
+         style="fill:#ffffff">
+        <g
+           id="g10065"
+           clip-path="url(#clipPath10067)"
+           style="fill:#ffffff">
+          <path
+             id="path10077"
+             fill-rule="evenodd"
+             fill="url(#linearGradient10071)"
+             d="m430.9 607.26h62.303v29.563h-62.303v-29.563z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path10079"
+         stroke-linejoin="round"
+         d="m431.65 608.01h46.77l14.03 28.06h-46.77l-14.03-28.06z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g590">
+        <text
+           id="text10081"
+           transform="matrix(1,0,0,-1,449.59,624.44)">
+          <tspan
+             id="tspan10083"
+             y="0"
+             x="0 4.2657118 8.4687843 11.25792 14.047056 18.027431 22.230503 24.910055">Current</tspan>
+        </text>
+        <text
+           id="text10085"
+           transform="matrix(1,0,0,-1,457.31,614.84)">
+          <tspan
+             id="tspan10087"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text10089"
+           transform="matrix(1,0,0,-1,459.73,614.84)">
+          <tspan
+             id="tspan10091"
+             y="0"
+             x="0">A</tspan>
+        </text>
+        <text
+           id="text10093"
+           transform="matrix(1,0,0,-1,464.36,614.84)">
+          <tspan
+             id="tspan10095"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path10097"
+         stroke-linejoin="round"
+         d="m524.41 621.9c-10.63 0-16.18 0-18.83 0.02-2.43 0.03-2.43 0.08-4.86 0.1-1.71 0.01-4.62 0.02-9.96 0.02"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10099"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m485.43 622.04 7.04 3.52c-1.11-2.22-1.11-4.83 0-7.04l-7.04 3.52z" />
+      <path
+         id="path10101"
+         d="m352.94 605.15h51.024v30.614h-51.024v-30.614z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g10103">
+        <g
+           id="g10105"
+           clip-path="url(#clipPath10107)">
+          <path
+             id="path10111"
+             stroke-linejoin="round"
+             d="m352.94 605.15h51.02v30.61h-51.02v-30.61"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g10113">
+        <g
+           id="g10115"
+           clip-path="url(#clipPath10117)">
+          <path
+             id="path10127"
+             fill-rule="evenodd"
+             fill="url(#linearGradient10121)"
+             d="m350.75 605.84h52.524v32.114h-52.524v-32.114z" />
+        </g>
+      </g>
+      <path
+         id="path10129"
+         stroke-linejoin="round"
+         d="m351.5 606.59h51.024v30.614h-51.024v-30.614z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <text
+         id="text10131"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,354.43,624.3)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan10133"
+           y="0"
+           x="0 3.8985119 6.6876478 10.519704 14.722776 16.531416 21.453264 25.43364 28.113192 32.093567 35.476273 38.155823 42.374592">Trap Detector</tspan>
+      </text>
+      <text
+         id="text10135"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,359.24,614.7)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan10137"
+           y="0"
+           x="0 4.2657118 8.0977678 9.9335518 11.769336 15.972408 18.761543 22.593599 25.273151 27.108936 31.327703">Calibration</tspan>
+      </text>
+      <path
+         id="path10139"
+         stroke-linejoin="round"
+         d="m438.66 622.04c-10.63 0-16.37 0-19.01-0.03-2.25-0.03-2.25-0.07-4.49-0.09-1.32-0.02-3.44-0.02-7.31-0.02"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10141"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m402.52 621.9 7.04 3.52c-1.11-2.22-1.11-4.83 0-7.04l-7.04 3.52z" />
+      <path
+         id="path10143"
+         stroke-linejoin="round"
+         d="m377.01 661.3v-18.77"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10145"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m377.01 637.2-3.52 7.04c2.21-1.1 4.82-1.1 7.04 0l-3.52-7.04z" />
+      <path
+         id="path10147"
+         d="m332.38 497.15h70.87l21.26 42.52h-70.87l-21.26-42.52z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g10149">
+        <g
+           id="g10151"
+           clip-path="url(#clipPath10153)">
+          <path
+             id="path10157"
+             stroke-linejoin="round"
+             d="m332.38 497.15h70.87l21.26 42.52h-70.87l-21.26-42.52"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g10159">
+        <g
+           id="g10161"
+           clip-path="url(#clipPath10163)">
+          <path
+             id="path10173"
+             fill-rule="evenodd"
+             fill="url(#linearGradient10167)"
+             d="m330.19 497.84h93.626v44.02h-93.626v-44.02z" />
+        </g>
+      </g>
+      <path
+         id="path10175"
+         stroke-linejoin="round"
+         d="m330.94 498.59h70.87l21.26 42.52h-70.87l-21.26-42.52z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g626">
+        <text
+           id="text10177"
+           transform="matrix(1,0,0,-1,369.65,531.85)">
+          <tspan
+             id="tspan10179"
+             y="0"
+             x="0 3.8985119 6.6876478 10.519704 14.722776">Trap</tspan>
+        </text>
+        <text
+           id="text10181"
+           transform="matrix(1,0,0,-1,362.69,522.25)">
+          <tspan
+             id="tspan10183"
+             y="0"
+             x="0 4.9218478 8.9022236 11.581776 15.562152 18.944857 21.624409 25.843176">Detector</tspan>
+        </text>
+        <text
+           id="text10185"
+           transform="matrix(1,0,0,-1,356.61,512.65)">
+          <tspan
+             id="tspan10187"
+             y="0"
+             x="0 4.343688 8.3240643 11.452968 15.65604 19.874807 24.077881 27.206783 29.042568 32.65596 34.491745 37.171295 40.792393">Responsivity</tspan>
+        </text>
+        <text
+           id="text10189"
+           transform="matrix(1,0,0,-1,367.16,503.05)">
+          <tspan
+             id="tspan10191"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text10193"
+           transform="matrix(1,0,0,-1,369.59,503.05)">
+          <tspan
+             id="tspan10195"
+             y="0"
+             x="0">A</tspan>
+        </text>
+        <text
+           id="text10197"
+           transform="matrix(1,0,0,-1,374.22,503.05)">
+          <tspan
+             id="tspan10199"
+             y="0"
+             x="0">/</tspan>
+        </text>
+        <text
+           id="text10201"
+           transform="matrix(1,0,0,-1,377.31,503.05)">
+          <tspan
+             id="tspan10203"
+             y="0"
+             x="0">W</tspan>
+        </text>
+        <text
+           id="text10205"
+           transform="matrix(1,0,0,-1,384.43,503.05)">
+          <tspan
+             id="tspan10207"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path10209"
+         stroke-linejoin="round"
+         d="m377.01 606.59v-60.15"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10211"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m377.01 541.11-3.52 7.04c2.21-1.11 4.82-1.11 7.04 0l-3.52-7.04z" />
+      <path
+         id="path10213"
+         stroke-linejoin="round"
+         d="m176.1 585.76c12.84 0 55.35-10.4 61.31-32.56"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10215"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m238.11 547.91-4.41 6.52c2.34-0.81 4.93-0.46 6.98 0.92l-2.57-7.44z" />
+      <path
+         id="path10217"
+         d="m123.33 620.46c0 19.96 24.27 36.14 54.21 36.14s54.21-16.18 54.21-36.14-24.27-36.14-54.21-36.14-54.21 16.18-54.21 36.14z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g10219">
+        <g
+           id="g10221"
+           clip-path="url(#clipPath10223)">
+          <path
+             id="path10227"
+             stroke-linejoin="round"
+             d="m123.33 620.46c0 19.96 24.27 36.14 54.21 36.14s54.21-16.18 54.21-36.14-24.27-36.14-54.21-36.14-54.21 16.18-54.21 36.14"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g10229">
+        <g
+           id="g10231"
+           clip-path="url(#clipPath10233)">
+          <path
+             id="path10243"
+             fill-rule="evenodd"
+             fill="url(#linearGradient10237)"
+             d="m121.14 585.01h109.93v73.783h-109.93v-73.783z" />
+        </g>
+      </g>
+      <path
+         id="path10245"
+         stroke-linejoin="round"
+         d="m121.89 621.9c0 19.96 24.27 36.14 54.21 36.14s54.21-16.18 54.21-36.14-24.27-36.14-54.21-36.14-54.21 16.18-54.21 36.14z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g656">
+        <text
+           id="text10247"
+           transform="matrix(1,0,0,-1,140.59,629.1)">
+          <tspan
+             id="tspan10249"
+             y="0"
+             x="0 2.449152 4.898304 7.347456 9.796608 12.24576 14.694912 17.144064 19.593216 22.042368 24.49152 26.940672 29.389824 31.838976 34.288128 36.737282 39.186432 41.635586 44.084736 46.53389 48.98304 51.432194 53.881344 56.330498 58.779648 61.228802 63.677952 66.127106 68.576256">-----------------------------</tspan>
+        </text>
+        <text
+           id="text10251"
+           transform="matrix(1,0,0,-1,152.35,619.5)">
+          <tspan
+             id="tspan10253"
+             y="0"
+             x="0 3.8985119 8.1015844 12.304656 16.285032 20.117088 24.32016 26.155945 30.13632 31.94496 33.780743 37.612801 40.741703 44.72208">Tuneable laser</tspan>
+        </text>
+        <text
+           id="text10255"
+           transform="matrix(1,0,0,-1,139.37,609.9)">
+          <tspan
+             id="tspan10257"
+             y="0"
+             x="0 2.449152 4.898304 7.347456 9.796608 12.24576 14.694912 17.144064 19.593216 22.042368 24.49152 26.940672 29.389824 31.838976 34.288128 36.737282 39.186432 41.635586 44.084736 46.53389 48.98304 51.432194 53.881344 56.330498 58.779648 61.228802 63.677952 66.127106 68.576256 71.025406">------------------------------</tspan>
+        </text>
+      </g>
+      <text
+         id="text10259"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,157.97,600.3)"
+         font-family="CALIBRI"
+         fill="#4a78ff"
+         style="fill:#000000;">
+        <tspan
+           id="tspan10261"
+           y="0"
+           x="0 3.8985119 5.7342958 7.5429358 11.21868 15.050736 19.253807 23.456881 27.659952 29.495735 32.28487"
+           style="fill:#000000;">Ti Sapphire</tspan>
+      </text>
+      <path
+         id="path10263"
+         stroke-linejoin="round"
+         d="m176.1 585.76s-36.56-5.83-62.07-33.81"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10265"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m110.55 547.91 1.92 7.64c0.96-2.29 2.94-3.99 5.34-4.6l-7.26-3.04z" />
+      <path
+         id="path10267"
+         d="m69.472 518.13c-0.001 15.65 19.036 28.34 42.518 28.34 23.48 0 42.52-12.69 42.52-28.34 0-15.66-19.04-28.35-42.52-28.35-23.482 0-42.518 12.69-42.518 28.35z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g10269">
+        <g
+           id="g10271"
+           clip-path="url(#clipPath10273)">
+          <path
+             id="path10277"
+             stroke-linejoin="round"
+             d="m69.472 518.13c-0.001 15.65 19.036 28.34 42.518 28.34 23.48 0 42.52-12.69 42.52-28.34 0-15.66-19.04-28.35-42.52-28.35-23.482 0-42.518 12.69-42.518 28.35"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g10279"
+         style="fill:#ffffff">
+        <g
+           id="g10281"
+           clip-path="url(#clipPath10283)"
+           style="fill:#ffffff">
+          <path
+             id="path10293"
+             fill-rule="evenodd"
+             fill="url(#linearGradient10287)"
+             d="m67.281 490.47h86.539v58.193h-86.539v-58.193z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path10295"
+         stroke-linejoin="round"
+         d="m68.031 519.57c0 15.65 19.037 28.34 42.519 28.34 23.48 0 42.52-12.69 42.52-28.34 0-15.66-19.04-28.35-42.52-28.35-23.482 0-42.518 12.69-42.519 28.35z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <text
+         id="text10297"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,82.122,521.97)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan10299"
+           y="0"
+           x="0 3.6757441 5.511528 7.347312 10.026864 14.00724 16.796375 18.605017 22.948704 26.78076 30.983831 32.819614 37.038383 43.428886 47.409264 50.088818 54.069191">Filter Radiometer</tspan>
+      </text>
+      <path
+         id="path10301"
+         d="m197.03 518.13c0 15.65 19.04 28.34 42.52 28.34s42.52-12.69 42.52-28.34c0-15.66-19.04-28.35-42.52-28.35s-42.52 12.69-42.52 28.35z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g10303">
+        <g
+           id="g10305"
+           clip-path="url(#clipPath10307)">
+          <path
+             id="path10311"
+             stroke-linejoin="round"
+             d="m197.03 518.13c0 15.65 19.04 28.34 42.52 28.34s42.52-12.69 42.52-28.34c0-15.66-19.04-28.35-42.52-28.35s-42.52 12.69-42.52 28.35"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g10313"
+         style="fill:#ffffff">
+        <g
+           id="g10315"
+           clip-path="url(#clipPath10317)"
+           style="fill:#ffffff">
+          <path
+             id="path10327"
+             fill-rule="evenodd"
+             fill="url(#linearGradient10321)"
+             d="m194.84 490.47h86.539v58.193h-86.539v-58.193z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path10329"
+         stroke-linejoin="round"
+         d="m195.59 519.57c0 15.65 19.04 28.34 42.52 28.34s42.52-12.69 42.52-28.34c0-15.66-19.04-28.35-42.52-28.35s-42.52 12.69-42.52 28.35z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <text
+         id="text10331"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,215.53,521.97)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan10333"
+           y="0"
+           x="0 3.8985119 6.6876478 10.519704 14.722776 16.531416 21.453264 25.43364 28.113192 32.093567 35.476273 38.155823 42.374592">Trap Detector</tspan>
+      </text>
+      <path
+         id="path10335"
+         d="m201.28 316.58h76.535v45.921h-76.535v-45.921z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g10337">
+        <g
+           id="g10339"
+           clip-path="url(#clipPath10341)">
+          <path
+             id="path10345"
+             stroke-linejoin="round"
+             d="m201.28 316.58h76.54v45.92h-76.54v-45.92"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g10347">
+        <g
+           id="g10349"
+           clip-path="url(#clipPath10351)">
+          <path
+             id="path10361"
+             fill-rule="evenodd"
+             fill="url(#linearGradient10355)"
+             d="m199.09 317.27h78.035v47.421h-78.035v-47.421z" />
+        </g>
+      </g>
+      <path
+         id="path10363"
+         stroke-linejoin="round"
+         d="m199.84 318.02h76.535v45.921h-76.535v-45.921z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <text
+         id="text10365"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,209.68,343.38)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan10367"
+           y="0"
+           x="0 3.6757441 5.511528 7.347312 10.026864 14.00724 16.796375 18.605017 22.948704 26.78076 30.983831 32.819614 37.038383 43.428886 47.409264 50.088818 54.069191">Filter Radiometer</tspan>
+      </text>
+      <text
+         id="text10369"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,220.34,333.78)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan10371"
+           y="0"
+           x="0 4.2657118 8.0977678 9.9335518 11.769336 15.972408 18.761543 22.593599 25.273151 27.108936 31.327703">Calibration</tspan>
+      </text>
+      <path
+         id="path10373"
+         d="m77.905 416.08h52.445l15.73 31.46h-52.443l-15.732-31.46z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g10375">
+        <g
+           id="g10377"
+           clip-path="url(#clipPath10379)">
+          <path
+             id="path10383"
+             stroke-linejoin="round"
+             d="m77.905 416.08h52.445l15.73 31.46h-52.443l-15.732-31.46"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g10385">
+        <g
+           id="g10387"
+           clip-path="url(#clipPath10389)">
+          <path
+             id="path10399"
+             fill-rule="evenodd"
+             fill="url(#linearGradient10393)"
+             d="m75.715 416.77h69.673v32.965h-69.673v-32.965z" />
+        </g>
+      </g>
+      <path
+         id="path10401"
+         stroke-linejoin="round"
+         d="m76.465 417.52h52.445l15.73 31.46h-52.443l-15.732-31.46z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g708">
+        <text
+           id="text10403"
+           transform="matrix(1,0,0,-1,98.096,435.65)">
+          <tspan
+             id="tspan10405"
+             y="0"
+             x="0 4.2657118 8.4687843 11.25792 14.047056 18.027431 22.230503 24.910055">Current</tspan>
+        </text>
+        <text
+           id="text10407"
+           transform="matrix(1,0,0,-1,105.81,426.05)">
+          <tspan
+             id="tspan10409"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text10411"
+           transform="matrix(1,0,0,-1,108.24,426.05)">
+          <tspan
+             id="tspan10413"
+             y="0"
+             x="0">A</tspan>
+        </text>
+        <text
+           id="text10415"
+           transform="matrix(1,0,0,-1,112.87,426.05)">
+          <tspan
+             id="tspan10417"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path10419"
+         stroke-linejoin="round"
+         d="m110.55 491.22v-36.91"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10421"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m110.55 448.98-3.52 7.04c2.22-1.1 4.83-1.1 7.04 0l-3.52-7.04z" />
+      <path
+         id="path10423"
+         stroke-linejoin="round"
+         d="m377.01 498.59c0-39.4 0-102-21.17-131.45-17.51-24.36-49.5-26.03-74.13-26.15"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10425"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m276.38 340.98 7.03 3.54c-1.1-2.22-1.1-4.83 0.01-7.04l-7.04 3.5z" />
+      <path
+         id="path10427"
+         stroke-linejoin="round"
+         d="m238.11 491.22v-37.19"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10429"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m238.11 448.7-3.52 7.04c2.22-1.11 4.82-1.11 7.04 0l-3.52-7.04z" />
+      <path
+         id="path10431"
+         d="m205.46 415.8h52.44l15.74 31.46h-52.44l-15.74-31.46z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g10433">
+        <g
+           id="g10435"
+           clip-path="url(#clipPath10437)">
+          <path
+             id="path10441"
+             stroke-linejoin="round"
+             d="m205.46 415.8h52.44l15.74 31.46h-52.44l-15.74-31.46"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g10443">
+        <g
+           id="g10445"
+           clip-path="url(#clipPath10447)">
+          <path
+             id="path10457"
+             fill-rule="evenodd"
+             fill="url(#linearGradient10451)"
+             d="m203.27 416.49h69.673v32.965h-69.673v-32.965z" />
+        </g>
+      </g>
+      <path
+         id="path10459"
+         stroke-linejoin="round"
+         d="m204.02 417.24h52.44l15.74 31.46h-52.44l-15.74-31.46z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g732">
+        <text
+           id="text10461"
+           transform="matrix(1,0,0,-1,225.66,435.37)">
+          <tspan
+             id="tspan10463"
+             y="0"
+             x="0 4.2657118 8.4687843 11.25792 14.047056 18.027431 22.230503 24.910055">Current</tspan>
+        </text>
+        <text
+           id="text10465"
+           transform="matrix(1,0,0,-1,233.37,425.77)">
+          <tspan
+             id="tspan10467"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text10469"
+           transform="matrix(1,0,0,-1,235.8,425.77)">
+          <tspan
+             id="tspan10471"
+             y="0"
+             x="0">A</tspan>
+        </text>
+        <text
+           id="text10473"
+           transform="matrix(1,0,0,-1,240.42,425.77)">
+          <tspan
+             id="tspan10475"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path10477"
+         stroke-linejoin="round"
+         d="m238.11 417.24v-47.97"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10479"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m238.11 363.94-3.52 7.04c2.22-1.1 4.82-1.1 7.04 0l-3.52-7.04z" />
+      <path
+         id="path10481"
+         d="m173.16 232.11h104.43l28.35 56.69h-104.43l-28.35-56.69z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g10483">
+        <g
+           id="g10485"
+           clip-path="url(#clipPath10487)">
+          <path
+             id="path10491"
+             stroke-linejoin="round"
+             d="m173.16 232.11h104.43l28.35 56.69h-104.43l-28.35-56.69"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g10493">
+        <g
+           id="g10495"
+           clip-path="url(#clipPath10497)">
+          <path
+             id="path10507"
+             fill-rule="evenodd"
+             fill="url(#linearGradient10501)"
+             d="m170.97 232.8h134.28v58.193h-134.28v-58.193z" />
+        </g>
+      </g>
+      <path
+         id="path10509"
+         stroke-linejoin="round"
+         d="m171.72 233.55h104.43l28.35 56.69h-104.43l-28.35-56.69z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g752">
+        <text
+           id="text10511"
+           transform="matrix(1,0,0,-1,209.68,273.9)">
+          <tspan
+             id="tspan10513"
+             y="0"
+             x="0 3.6757441 5.511528 7.347312 10.026864 14.00724 16.796375 18.605017 22.948704 26.78076 30.983831 32.819614 37.038383 43.428886 47.409264 50.088818 54.069191">Filter Radiometer</tspan>
+        </text>
+        <text
+           id="text10515"
+           transform="matrix(1,0,0,-1,209.21,264.3)">
+          <tspan
+             id="tspan10517"
+             y="0"
+             x="0 3.6757441 7.8788161 11.859192 15.241896 17.921448 20.710585 24.542641 26.378424 28.187063 32.53075 36.362808 40.56588 42.401665 46.233719 50.43679 53.819496 57.799873">Spectral Radiance</tspan>
+        </text>
+        <text
+           id="text10519"
+           transform="matrix(1,0,0,-1,217.71,254.7)">
+          <tspan
+             id="tspan10521"
+             y="0"
+             x="0 4.343688 8.3240643 11.452968 15.65604 19.874807 24.077881 27.206783 29.042568 32.65596 34.491745 37.171295">Responsivity</tspan>
+        </text>
+        <text
+           id="text10523"
+           transform="matrix(1,0,0,-1,208.63,245.1)">
+          <tspan
+             id="tspan10525"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text10527"
+           transform="matrix(1,0,0,-1,211.06,245.1)">
+          <tspan
+             id="tspan10529"
+             y="0"
+             x="0">A</tspan>
+        </text>
+        <text
+           id="text10531"
+           transform="matrix(1,0,0,-1,215.69,245.1)">
+          <tspan
+             id="tspan10533"
+             y="0"
+             x="0 3.08988">/(</tspan>
+        </text>
+        <text
+           id="text10535"
+           transform="matrix(1,0,0,-1,221.2,245.1)">
+          <tspan
+             id="tspan10537"
+             y="0"
+             x="0">W</tspan>
+        </text>
+        <text
+           id="text10539"
+           transform="matrix(1,0,0,-1,228.32,245.1)">
+          <tspan
+             id="tspan10541"
+             y="0"
+             x="0">/</tspan>
+        </text>
+        <text
+           id="text10543"
+           transform="matrix(1,0,0,-1,231.41,245.1)">
+          <tspan
+             id="tspan10545"
+             y="0"
+             x="0">m</tspan>
+        </text>
+        <text
+           id="text10547"
+           transform="matrix(1,0,0,-1,237.8,245.1)">
+          <tspan
+             id="tspan10549"
+             y="0"
+             x="0">2</tspan>
+        </text>
+        <text
+           id="text10551"
+           transform="matrix(1,0,0,-1,241.85,245.1)">
+          <tspan
+             id="tspan10553"
+             y="0"
+             x="0">/</tspan>
+        </text>
+        <text
+           id="text10555"
+           transform="matrix(1,0,0,-1,244.94,245.1)">
+          <tspan
+             id="tspan10557"
+             y="0"
+             x="0 3.1289041">sr</tspan>
+        </text>
+        <text
+           id="text10559"
+           transform="matrix(1,0,0,-1,250.86,245.1)">
+          <tspan
+             id="tspan10561"
+             y="0"
+             x="0">/</tspan>
+        </text>
+        <text
+           id="text10563"
+           transform="matrix(1,0,0,-1,253.95,245.1)">
+          <tspan
+             id="tspan10565"
+             y="0"
+             x="0 4.2030721">nm</tspan>
+        </text>
+        <text
+           id="text10567"
+           transform="matrix(1,0,0,-1,264.55,245.1)">
+          <tspan
+             id="tspan10569"
+             y="0"
+             x="0 2.4257519">))</tspan>
+        </text>
+      </g>
+      <path
+         id="path10571"
+         stroke-linejoin="round"
+         d="m238.11 318.02v-22.45"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10573"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m238.11 290.24-3.52 7.04c2.22-1.1 4.82-1.1 7.04 0l-3.52-7.04z" />
+      <path
+         id="path10575"
+         stroke-linejoin="round"
+         d="m110.55 417.52c0-19.13 0-47.22 16.03-61.56 15.46-13.83 45.8-14.89 67.93-14.97"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10577"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m199.84 340.98-7.04-3.51c1.11 2.22 1.11 4.83 0.01 7.04l7.03-3.53z" />
+      <path
+         id="path10579"
+         d="m62.739 193.13c0 19.18 23.32 34.73 52.091 34.73 28.76 0 52.08-15.55 52.08-34.73 0-19.17-23.32-34.72-52.08-34.72-28.771 0-52.091 15.55-52.091 34.72z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g10581">
+        <g
+           id="g10583"
+           clip-path="url(#clipPath10585)">
+          <path
+             id="path10589"
+             stroke-linejoin="round"
+             d="m62.739 193.13c0 19.18 23.32 34.73 52.091 34.73 28.76 0 52.08-15.55 52.08-34.73 0-19.17-23.32-34.72-52.08-34.72-28.771 0-52.091 15.55-52.091 34.72"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g10591"
+         style="fill:#ffffff">
+        <g
+           id="g10593"
+           clip-path="url(#clipPath10595)"
+           style="fill:#ffffff">
+          <path
+             id="path10605"
+             fill-rule="evenodd"
+             fill="url(#linearGradient10599)"
+             d="m60.549 159.1h105.67v70.949h-105.67v-70.949z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path10607"
+         stroke-linejoin="round"
+         d="m61.299 194.57c0 19.18 23.32 34.73 52.091 34.73 28.76 0 52.08-15.55 52.08-34.73 0-19.17-23.32-34.72-52.08-34.72-28.771 0-52.091 15.55-52.091 34.72z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g796">
+        <text
+           id="text10609"
+           transform="matrix(1,0,0,-1,86.917,201.77)">
+          <tspan
+             id="tspan10611"
+             y="0"
+             x="0 3.6757441 8.0194321 10.035144 14.167944 17.843687 19.652328 24.003719 25.839504 29.67156 33.054264 36.690983 40.894054 45.112823 49.315895">SRIPS Blackbody</tspan>
+        </text>
+        <text
+           id="text10613"
+           transform="matrix(1,0,0,-1,76.81,192.17)">
+          <tspan
+             id="tspan10615"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text10617"
+           transform="matrix(1,0,0,-1,79.236,192.17)">
+          <tspan
+             id="tspan10619"
+             y="0"
+             x="0 3.8985119 8.1015844 12.08196 13.8906 17.566343 21.769417 25.749792 29.132496 31.812048 34.601185 38.433239 40.269024 42.077663 45.983879 52.374386 54.210167 57.339073 60.467976 62.303761 66.52253 70.725601">The Spectral Emission</tspan>
+        </text>
+        <text
+           id="text10621"
+           transform="matrix(1,0,0,-1,83.865,182.58)">
+          <tspan
+             id="tspan10623"
+             y="0"
+             x="0 4.1328001 6.921936 8.75772 15.148224 18.98028 21.769417 25.390512 27.199152 30.874895 33.554447 37.386505 41.589577 45.792648 49.624702 52.413841">Primary Standard</tspan>
+        </text>
+        <text
+           id="text10625"
+           transform="matrix(1,0,0,-1,140.48,182.58)">
+          <tspan
+             id="tspan10627"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path10629"
+         d="m520.97 408.21c0 15.85 21.22 28.7 47.4 28.7s47.39-12.85 47.39-28.7-21.21-28.7-47.39-28.7-47.4 12.85-47.4 28.7z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g10631">
+        <g
+           id="g10633"
+           clip-path="url(#clipPath10635)">
+          <path
+             id="path10639"
+             stroke-linejoin="round"
+             d="m520.97 408.21c0 15.85 21.22 28.7 47.4 28.7s47.39-12.85 47.39-28.7-21.21-28.7-47.39-28.7-47.4 12.85-47.4 28.7"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g10641"
+         style="fill:#ffffff">
+        <g
+           id="g10643"
+           clip-path="url(#clipPath10645)"
+           style="fill:#ffffff">
+          <path
+             id="path10655"
+             fill-rule="evenodd"
+             fill="url(#linearGradient10649)"
+             d="m518.78 380.2h96.292v58.902h-96.292v-58.902z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path10657"
+         stroke-linejoin="round"
+         d="m519.53 409.65c0 15.85 21.22 28.7 47.4 28.7s47.39-12.85 47.39-28.7-21.21-28.7-47.39-28.7-47.4 12.85-47.4 28.7z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g816">
+        <text
+           id="text10659"
+           transform="matrix(1,0,0,-1,536.12,416.85)">
+          <tspan
+             id="tspan10661"
+             y="0"
+             x="0 3.6757441 7.8788161 11.859192 15.241896 17.921448 20.710585 24.929352 27.718489 31.550545 35.753616 37.589401 41.808167 48.198673 52.179047 54.858601 58.838978">Spectroradiometer</tspan>
+        </text>
+        <text
+           id="text10663"
+           transform="matrix(1,0,0,-1,532.32,407.25)">
+          <tspan
+             id="tspan10665"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text10667"
+           transform="matrix(1,0,0,-1,534.75,407.25)">
+          <tspan
+             id="tspan10669"
+             y="0"
+             x="0 1.835784 6.038856">inc</tspan>
+        </text>
+        <text
+           id="text10671"
+           transform="matrix(1,0,0,-1,544.17,407.25)">
+          <tspan
+             id="tspan10673"
+             y="0"
+             x="0 2.0195279">.</tspan>
+        </text>
+        <text
+           id="text10675"
+           transform="matrix(1,0,0,-1,548,407.25)">
+          <tspan
+             id="tspan10677"
+             y="0"
+             x="0 6.3905039 10.609272 14.812344 19.031113 22.413816 26.616888 29.406025 33.62479 40.015297 43.847351 46.526905 50.74567 53.534809">monochromator</tspan>
+        </text>
+        <text
+           id="text10679"
+           transform="matrix(1,0,0,-1,542.89,397.65)">
+          <tspan
+             id="tspan10681"
+             y="0"
+             x="0 5.4568801">&amp;</tspan>
+        </text>
+        <text
+           id="text10683"
+           transform="matrix(1,0,0,-1,550.16,397.65)">
+          <tspan
+             id="tspan10685"
+             y="0"
+             x="0 1.835784 6.038856 10.241928 14.445 17.124552 18.933191 23.15196 27.355032 30.034584 31.870367 35.253071">input optics</tspan>
+        </text>
+        <text
+           id="text10687"
+           transform="matrix(1,0,0,-1,588.54,397.65)">
+          <tspan
+             id="tspan10689"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path10691"
+         d="m72.306 93.214c0 15.656 19.037 28.346 42.524 28.346 23.48 0 42.52-12.69 42.52-28.346s-19.04-28.347-42.52-28.347c-23.487 0-42.524 12.691-42.524 28.347z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g10693">
+        <g
+           id="g10695"
+           clip-path="url(#clipPath10697)">
+          <path
+             id="path10701"
+             stroke-linejoin="round"
+             d="m72.306 93.214c0 15.656 19.037 28.346 42.524 28.346 23.48 0 42.52-12.69 42.52-28.346s-19.04-28.347-42.52-28.347c-23.487 0-42.524 12.691-42.524 28.347"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g10703">
+        <g
+           id="g10705"
+           clip-path="url(#clipPath10707)">
+          <path
+             id="path10717"
+             fill-rule="evenodd"
+             fill="url(#linearGradient10711)"
+             d="m70.116 65.557h86.539v58.193h-86.539v-58.193z" />
+        </g>
+      </g>
+      <path
+         id="path10719"
+         stroke-linejoin="round"
+         d="m70.866 94.654c0 15.656 19.037 28.346 42.524 28.346 23.48 0 42.52-12.69 42.52-28.346s-19.04-28.347-42.52-28.347c-23.487 0-42.524 12.691-42.524 28.347z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <text
+         id="text10721"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,84.957,97.053)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan10723"
+           y="0"
+           x="0 3.6757441 5.511528 7.347312 10.026864 14.00724 16.796375 18.605017 22.948704 26.78076 30.983831 32.819614 37.038383 43.428886 47.409264 50.088818 54.069191">Filter Radiometer</tspan>
+      </text>
+      <path
+         id="path10725"
+         stroke-linejoin="round"
+         d="m113.39 159.85v-31.52"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10727"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m113.39 123-3.52 7.04c2.21-1.11 4.82-1.11 7.04 0l-3.52-7.04z" />
+      <path
+         id="path10729"
+         stroke-linejoin="round"
+         d="m155.91 94.654h50.65"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10731"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m211.89 94.654-7.04-3.52c1.11 2.215 1.11 4.824 0 7.04l7.04-3.52z" />
+      <path
+         id="path10733"
+         d="m205.46 77.481h52.44l15.74 31.469h-52.44l-15.74-31.469z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g10735">
+        <g
+           id="g10737"
+           clip-path="url(#clipPath10739)">
+          <path
+             id="path10743"
+             stroke-linejoin="round"
+             d="m205.46 77.481h52.44l15.74 31.469h-52.44l-15.74-31.469"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g10745">
+        <g
+           id="g10747"
+           clip-path="url(#clipPath10749)">
+          <path
+             id="path10759"
+             fill-rule="evenodd"
+             fill="url(#linearGradient10753)"
+             d="m203.27 78.171h69.673v32.965h-69.673v-32.965z" />
+        </g>
+      </g>
+      <path
+         id="path10761"
+         stroke-linejoin="round"
+         d="m204.02 78.921h52.44l15.74 31.469h-52.44l-15.74-31.469z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g856">
+        <text
+           id="text10763"
+           transform="matrix(1,0,0,-1,225.66,97.054)">
+          <tspan
+             id="tspan10765"
+             y="0"
+             x="0 4.2657118 8.4687843 11.25792 14.047056 18.027431 22.230503 24.910055">Current</tspan>
+        </text>
+        <text
+           id="text10767"
+           transform="matrix(1,0,0,-1,233.37,87.454)">
+          <tspan
+             id="tspan10769"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text10771"
+           transform="matrix(1,0,0,-1,235.8,87.454)">
+          <tspan
+             id="tspan10773"
+             y="0"
+             x="0">A</tspan>
+        </text>
+        <text
+           id="text10775"
+           transform="matrix(1,0,0,-1,240.42,87.454)">
+          <tspan
+             id="tspan10777"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path10779"
+         stroke-linejoin="round"
+         d="m238.11 110.39v34.21"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10781"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m238.11 149.93 3.52-7.04c-2.22 1.11-4.82 1.11-7.04 0l3.52 7.04z" />
+      <path
+         id="path10783"
+         stroke-linejoin="round"
+         d="m238.11 233.55v-35.77"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10785"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m238.11 192.45-3.52 7.04c2.22-1.11 4.82-1.11 7.04 0l-3.52-7.04z" />
+      <path
+         id="path10787"
+         d="m292.31 144.88h108.43l24.87 49.74h-108.43l-24.87-49.74z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g10789">
+        <g
+           id="g10791"
+           clip-path="url(#clipPath10793)">
+          <path
+             id="path10797"
+             stroke-linejoin="round"
+             d="m292.31 144.88h108.43l24.87 49.74h-108.43l-24.87-49.74"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g10799"
+         style="fill:#ffffff">
+        <g
+           id="g10801"
+           clip-path="url(#clipPath10803)"
+           style="fill:#ffffff">
+          <path
+             id="path10813"
+             fill-rule="evenodd"
+             fill="url(#linearGradient10807)"
+             d="m290.12 145.57h134.8v51.248h-134.8v-51.248z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path10815"
+         stroke-linejoin="round"
+         d="m290.87 146.31h108.43l24.87 49.75h-108.43l-24.87-49.75z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g878">
+        <text
+           id="text10817"
+           transform="matrix(1,0,0,-1,324.08,178.39)">
+          <tspan
+             id="tspan10819"
+             y="0"
+             x="0 3.6757441 8.0194321 10.035144 14.167944 17.843687 19.652328 24.003719 25.839504 29.67156 33.054264 36.690983 40.894054 45.112823 49.315895 52.936993 54.745632 58.644142">SRIPS Blackbody T</tspan>
+        </text>
+        <text
+           id="text10821"
+           transform="matrix(1,0,0,-1,384.53,178.39)">
+          <tspan
+             id="tspan10823"
+             y="0"
+             x="0">-</tspan>
+        </text>
+        <text
+           id="text10825"
+           transform="matrix(1,0,0,-1,386.98,178.39)">
+          <tspan
+             id="tspan10827"
+             y="0"
+             x="0 3.9844799">&gt;</tspan>
+        </text>
+        <text
+           id="text10829"
+           transform="matrix(1,0,0,-1,333.46,168.79)">
+          <tspan
+             id="tspan10831"
+             y="0"
+             x="0 4.343688 8.1757441 12.378816 14.2146 18.046656 22.249727 25.632433 29.612808 31.421448 35.097191 38.479897 42.311951 44.147736">Radiance Scale</tspan>
+        </text>
+        <text
+           id="text10833"
+           transform="matrix(1,0,0,-1,333.42,159.19)">
+          <tspan
+             id="tspan10835"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text10837"
+           transform="matrix(1,0,0,-1,335.85,159.19)">
+          <tspan
+             id="tspan10839"
+             y="0"
+             x="0">W</tspan>
+        </text>
+        <text
+           id="text10841"
+           transform="matrix(1,0,0,-1,342.96,159.19)">
+          <tspan
+             id="tspan10843"
+             y="0"
+             x="0">/</tspan>
+        </text>
+        <text
+           id="text10845"
+           transform="matrix(1,0,0,-1,346.05,159.19)">
+          <tspan
+             id="tspan10847"
+             y="0"
+             x="0">m</tspan>
+        </text>
+        <text
+           id="text10849"
+           transform="matrix(1,0,0,-1,352.45,159.19)">
+          <tspan
+             id="tspan10851"
+             y="0"
+             x="0">2</tspan>
+        </text>
+        <text
+           id="text10853"
+           transform="matrix(1,0,0,-1,356.5,159.19)">
+          <tspan
+             id="tspan10855"
+             y="0"
+             x="0">/</tspan>
+        </text>
+        <text
+           id="text10857"
+           transform="matrix(1,0,0,-1,359.59,159.19)">
+          <tspan
+             id="tspan10859"
+             y="0"
+             x="0 3.1289041">sr</tspan>
+        </text>
+        <text
+           id="text10861"
+           transform="matrix(1,0,0,-1,365.51,159.19)">
+          <tspan
+             id="tspan10863"
+             y="0"
+             x="0">/</tspan>
+        </text>
+        <text
+           id="text10865"
+           transform="matrix(1,0,0,-1,368.6,159.19)">
+          <tspan
+             id="tspan10867"
+             y="0"
+             x="0 4.2030721">nm</tspan>
+        </text>
+        <text
+           id="text10869"
+           transform="matrix(1,0,0,-1,379.19,159.19)">
+          <tspan
+             id="tspan10871"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path10873"
+         stroke-linejoin="round"
+         d="m273.54 171.19h24.44"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10875"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m303.31 171.19-7.04-3.52c1.11 2.21 1.11 4.82 0 7.04l7.04-3.52z" />
+      <path
+         id="path10877"
+         d="m521.6 334.18c0 15.64 20.94 28.32 46.77 28.32s46.77-12.68 46.77-28.32-20.94-28.32-46.77-28.32-46.77 12.68-46.77 28.32z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g10879">
+        <g
+           id="g10881"
+           clip-path="url(#clipPath10883)">
+          <path
+             id="path10887"
+             stroke-linejoin="round"
+             d="m521.6 334.18c0 15.64 20.94 28.32 46.77 28.32s46.77-12.68 46.77-28.32-20.94-28.32-46.77-28.32-46.77 12.68-46.77 28.32"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g10889">
+        <g
+           id="g10891"
+           clip-path="url(#clipPath10893)">
+          <path
+             id="path10903"
+             fill-rule="evenodd"
+             fill="url(#linearGradient10897)"
+             d="m519.41 306.55h95.043v58.146h-95.043v-58.146z" />
+        </g>
+      </g>
+      <path
+         id="path10905"
+         stroke-linejoin="round"
+         d="m520.16 335.62c0 15.64 20.94 28.32 46.77 28.32s46.77-12.68 46.77-28.32-20.94-28.32-46.77-28.32-46.77 12.68-46.77 28.32z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g918">
+        <text
+           id="text10907"
+           transform="matrix(1,0,0,-1,536.12,347.62)">
+          <tspan
+             id="tspan10909"
+             y="0"
+             x="0 3.6757441 7.8788161 11.859192 15.241896 17.921448 20.710585 24.929352 27.718489 31.550545 35.753616 37.589401 41.808167 48.198673 52.179047 54.858601 58.838978 61.628113">Spectroradiometer</tspan>
+        </text>
+        <text
+           id="text10911"
+           transform="matrix(1,0,0,-1,551.05,338.02)">
+          <tspan
+             id="tspan10913"
+             y="0"
+             x="0 4.9218478 8.9022236 11.581776 15.562152 18.944857 21.624409 25.843176 28.632313">Detectors</tspan>
+        </text>
+        <text
+           id="text10915"
+           transform="matrix(1,0,0,-1,538.18,328.42)">
+          <tspan
+             id="tspan10917"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text10919"
+           transform="matrix(1,0,0,-1,540.6,328.42)">
+          <tspan
+             id="tspan10921"
+             y="0"
+             x="0 3.1289041 4.9646878 6.8004718 8.6362562 12.01896 16.237728 20.4408 22.249439 26.452513 28.288296 32.507065 36.710136 40.690514 43.819416 45.628056 48.069504 52.288273 55.077408">silicon diodes for</tspan>
+        </text>
+        <text
+           id="text10923"
+           transform="matrix(1,0,0,-1,532.46,318.82)">
+          <tspan
+             id="tspan10925"
+             y="0"
+             x="0 3.6133921 5.4491758 8.5780802 10.413864 14.616936 16.452721">visible</tspan>
+        </text>
+        <text
+           id="text10927"
+           transform="matrix(1,0,0,-1,552.89,318.82)">
+          <tspan
+             id="tspan10929"
+             y="0"
+             x="0 1.9962">,</tspan>
+        </text>
+        <text
+           id="text10931"
+           transform="matrix(1,0,0,-1,556.69,318.82)">
+          <tspan
+             id="tspan10933"
+             y="0"
+             x="0 2.015712 6.2187839 11.265624 15.09768 19.726488 22.855392 24.664032 27.10548 31.324247 34.113384 35.922024 37.937737">InGaAs for IR</tspan>
+        </text>
+        <text
+           id="text10935"
+           transform="matrix(1,0,0,-1,598.98,318.82)">
+          <tspan
+             id="tspan10937"
+             y="0"
+             x="0 2.4257519">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path10939"
+         d="m560.21 193.8h90.71l21.99 43.98h-90.71l-21.99-43.98z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g10941">
+        <g
+           id="g10943"
+           clip-path="url(#clipPath10945)">
+          <path
+             id="path10949"
+             stroke-linejoin="round"
+             d="m560.21 193.8h90.71l21.99 43.98h-90.71l-21.99-43.98"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g10951"
+         style="fill:#ffffff">
+        <g
+           id="g10953"
+           clip-path="url(#clipPath10955)"
+           style="fill:#ffffff">
+          <path
+             id="path10965"
+             fill-rule="evenodd"
+             fill="url(#linearGradient10959)"
+             d="m558.02 194.49h114.2v45.48h-114.2v-45.48z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path10967"
+         stroke-linejoin="round"
+         d="m558.77 195.24h90.71l21.99 43.98h-90.71l-21.99-43.98z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g944">
+        <text
+           id="text10969"
+           transform="matrix(1,0,0,-1,598.34,229.23)">
+          <tspan
+             id="tspan10971"
+             y="0"
+             x="0 3.6757441 8.0194321 10.035144 14.167944 17.843687 19.652328 24.94908 29.214792 33.558479">SRIPS OCR</tspan>
+        </text>
+        <text
+           id="text10973"
+           transform="matrix(1,0,0,-1,598.69,219.63)">
+          <tspan
+             id="tspan10975"
+             y="0"
+             x="0 2.015712 4.8048482 7.5939841 11.42604 15.629112 17.464895 21.296951 25.500025 28.882729 32.863106">Irradiance</tspan>
+        </text>
+        <text
+           id="text10977"
+           transform="matrix(1,0,0,-1,603.99,210.03)">
+          <tspan
+             id="tspan10979"
+             y="0"
+             x="0 3.6757441 7.8945122 12.097584 14.88672 18.269424">Source</tspan>
+        </text>
+        <text
+           id="text10981"
+           transform="matrix(1,0,0,-1,597.02,200.43)">
+          <tspan
+             id="tspan10983"
+             y="0"
+             x="0 4.2657118 8.4687843 11.25792 14.047056 18.027431 22.230503 24.910055">Current</tspan>
+        </text>
+        <text
+           id="text10985"
+           transform="matrix(1,0,0,-1,623.74,200.43)">
+          <tspan
+             id="tspan10987"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text10989"
+           transform="matrix(1,0,0,-1,626.16,200.43)">
+          <tspan
+             id="tspan10991"
+             y="0"
+             x="0">A</tspan>
+        </text>
+        <text
+           id="text10993"
+           transform="matrix(1,0,0,-1,630.79,200.43)">
+          <tspan
+             id="tspan10995"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path10997"
+         stroke-linejoin="round"
+         d="m566.93 307.3c0-20.42 44.46-21.23 47.97-62.76"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path10999"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m615.12 239.22-3.81 6.89c2.26-1.02 4.87-0.91 7.04 0.29l-3.23-7.18z" />
+      <path
+         id="path11001"
+         d="m457.82 192.43h90.71l22.67 45.35h-90.7l-22.68-45.35z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g11003">
+        <g
+           id="g11005"
+           clip-path="url(#clipPath11007)">
+          <path
+             id="path11011"
+             stroke-linejoin="round"
+             d="m457.82 192.43h90.71l22.67 45.35h-90.7l-22.68-45.35"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g11013"
+         style="fill:#ffffff">
+        <g
+           id="g11015"
+           clip-path="url(#clipPath11017)"
+           style="fill:#ffffff">
+          <path
+             id="path11027"
+             fill-rule="evenodd"
+             fill="url(#linearGradient11021)"
+             d="m455.63 193.12h114.89v46.854h-114.89v-46.854z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path11029"
+         stroke-linejoin="round"
+         d="m456.38 193.87h90.71l22.67 45.35h-90.7l-22.68-45.35z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g970">
+        <text
+           id="text11031"
+           transform="matrix(1,0,0,-1,486.6,218.94)">
+          <tspan
+             id="tspan11033"
+             y="0"
+             x="0 3.6757441 8.0194321 10.035144 14.167944 17.843687 19.652328 24.003719 25.839504 29.67156 33.054264 36.690983 40.894054 45.112823 49.315895">SRIPS Blackbody</tspan>
+        </text>
+        <text
+           id="text11035"
+           transform="matrix(1,0,0,-1,494.97,209.34)">
+          <tspan
+             id="tspan11037"
+             y="0"
+             x="0 4.2657118 8.4687843 11.25792 14.047056 18.027431 22.230503 24.910055">Current</tspan>
+        </text>
+        <text
+           id="text11039"
+           transform="matrix(1,0,0,-1,521.69,209.34)">
+          <tspan
+             id="tspan11041"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text11043"
+           transform="matrix(1,0,0,-1,524.12,209.34)">
+          <tspan
+             id="tspan11045"
+             y="0"
+             x="0">A</tspan>
+        </text>
+        <text
+           id="text11047"
+           transform="matrix(1,0,0,-1,528.74,209.34)">
+          <tspan
+             id="tspan11049"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path11051"
+         stroke-linejoin="round"
+         d="m566.93 307.3c0-20.42-49.7-21.23-53.61-62.76"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11053"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m513.07 239.22-3.19 7.19c2.16-1.2 4.77-1.32 7.03-0.32l-3.84-6.87z" />
+      <path
+         id="path11055"
+         stroke-linejoin="round"
+         d="m513.07 193.87c0.72-50.97 50.03-30.05 53.02-74.05"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11057"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m566.22 114.5-3.7 6.94c2.25-1.05 4.85-0.98 7.04 0.18l-3.34-7.12z" />
+      <path
+         id="path11059"
+         stroke-linejoin="round"
+         d="m615.12 195.24c0-50.08-44.03-39.35-48.54-75.43"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11061"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m566.22 114.5-3.03 7.26c2.13-1.26 4.74-1.43 7.02-0.48l-3.99-6.78z" />
+      <path
+         id="path11063"
+         stroke-linejoin="round"
+         d="m566.93 380.95v-11.68"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11065"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m566.93 363.94-3.52 7.04c2.22-1.1 4.82-1.1 7.04 0l-3.52-7.04z" />
+      <path
+         id="path11067"
+         d="m773.88 93.214c0 14.086 17.13 25.516 38.27 25.516 21.13 0 38.27-11.43 38.27-25.516 0-14.09-17.14-25.512-38.27-25.512-21.14 0-38.27 11.422-38.27 25.512z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g11069">
+        <g
+           id="g11071"
+           clip-path="url(#clipPath11073)">
+          <path
+             id="path11077"
+             stroke-linejoin="round"
+             d="m773.88 93.214c0 14.086 17.13 25.516 38.27 25.516 21.13 0 38.27-11.43 38.27-25.516 0-14.09-17.14-25.512-38.27-25.512-21.14 0-38.27 11.422-38.27 25.512"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g11079">
+        <g
+           id="g11081"
+           clip-path="url(#clipPath11083)">
+          <path
+             id="path11093"
+             fill-rule="evenodd"
+             fill="url(#linearGradient11087)"
+             d="m771.69 68.392h78.035v52.524h-78.035v-52.524z" />
+        </g>
+      </g>
+      <path
+         id="path11095"
+         stroke-linejoin="round"
+         d="m772.44 94.654c0 14.086 17.13 25.516 38.27 25.516 21.13 0 38.27-11.43 38.27-25.516 0-14.09-17.14-25.512-38.27-25.512-21.14 0-38.27 11.422-38.27 25.512z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g998">
+        <text
+           id="text11097"
+           transform="matrix(1,0,0,-1,786.12,101.85)">
+          <tspan
+             id="tspan11099"
+             y="0"
+             x="0 4.2657118 8.0977678 9.9335518 11.769336 15.972408 18.761543 22.593599 25.273151 29.253529 33.4566 35.26524 40.561993 44.827705 49.171391">Calibrated OCR</tspan>
+        </text>
+        <text
+           id="text11101"
+           transform="matrix(1,0,0,-1,782.25,92.254)">
+          <tspan
+             id="tspan11103"
+             y="0"
+             x="0 2.015712 4.8048482 7.5939841 11.42604 15.629112 17.464895 21.296951 25.500025 28.882729 32.863106 34.671745 38.347488 42.566257 46.769329 49.558464 52.94117">Irradiance Source</tspan>
+        </text>
+        <text
+           id="text11105"
+           transform="matrix(1,0,0,-1,786.21,82.654)">
+          <tspan
+             id="tspan11107"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text11109"
+           transform="matrix(1,0,0,-1,788.64,82.654)">
+          <tspan
+             id="tspan11111"
+             y="0"
+             x="0">e</tspan>
+        </text>
+        <text
+           id="text11113"
+           transform="matrix(1,0,0,-1,792.62,82.654)">
+          <tspan
+             id="tspan11115"
+             y="0"
+             x="0">.</tspan>
+        </text>
+        <text
+           id="text11117"
+           transform="matrix(1,0,0,-1,794.64,82.654)">
+          <tspan
+             id="tspan11119"
+             y="0"
+             x="0">g</tspan>
+        </text>
+        <text
+           id="text11121"
+           transform="matrix(1,0,0,-1,798.41,82.654)">
+          <tspan
+             id="tspan11123"
+             y="0"
+             x="0 2.0195279">.</tspan>
+        </text>
+        <text
+           id="text11125"
+           transform="matrix(1,0,0,-1,802.23,82.654)">
+          <tspan
+             id="tspan11127"
+             y="0"
+             x="0 3.6757441 7.5819602 10.945152 12.753792 16.116983 19.949039 26.339544">FEL Lamp</tspan>
+        </text>
+        <text
+           id="text11129"
+           transform="matrix(1,0,0,-1,832.78,82.654)">
+          <tspan
+             id="tspan11131"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path11133"
+         stroke-linejoin="round"
+         d="m610.87 94.203c10.63 0 12.84 0 14.59 0.008 6.67 0.031 6.67 0.181 16.03 0.277 15.85 0.161 58.54 0.165 125.62 0.166"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11135"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m772.44 94.654-7.04-3.52c1.11 2.215 1.11 4.824 0 7.04l7.04-3.52z" />
+      <path
+         id="path11137"
+         d="m776.72 489.12c0 13.57 16.49 24.57 36.85 24.57 20.35 0 36.85-11 36.85-24.57s-16.5-24.57-36.85-24.57c-20.36 0-36.85 11-36.85 24.57z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g11139">
+        <g
+           id="g11141"
+           clip-path="url(#clipPath11143)">
+          <path
+             id="path11147"
+             stroke-linejoin="round"
+             d="m776.72 489.12c0 13.57 16.49 24.57 36.85 24.57 20.35 0 36.85-11 36.85-24.57s-16.5-24.57-36.85-24.57c-20.36 0-36.85 11-36.85 24.57"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g11149"
+         style="fill:#ffffff">
+        <g
+           id="g11151"
+           clip-path="url(#clipPath11153)"
+           style="fill:#ffffff">
+          <path
+             id="path11163"
+             fill-rule="evenodd"
+             fill="url(#linearGradient11157)"
+             d="m774.53 465.24h75.201v50.634h-75.201v-50.634z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path11165"
+         stroke-linejoin="round"
+         d="m775.28 490.56c0 13.57 16.49 24.57 36.85 24.57 20.35 0 36.85-11 36.85-24.57s-16.5-24.57-36.85-24.57c-20.36 0-36.85 11-36.85 24.57z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <text
+         id="text11167"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,796.85,488.16)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan11169"
+           y="0"
+           x="0 3.6757441 7.5819602 10.945152 12.753792 16.116983 19.949039 26.339544">FEL Lamp</tspan>
+      </text>
+      <path
+         id="path11171"
+         stroke-linejoin="round"
+         d="m812.13 465.99v-6.95"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11173"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m812.13 453.71-3.52 7.04c2.21-1.11 4.82-1.11 7.04 0l-3.52-7.04z" />
+      <path
+         id="path11175"
+         d="m776.72 300.62c0 13.82 16.81 25.03 37.55 25.03 20.75 0 37.56-11.21 37.56-25.03 0-13.83-16.81-25.04-37.56-25.04-20.74 0-37.55 11.21-37.55 25.04z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g11177">
+        <g
+           id="g11179"
+           clip-path="url(#clipPath11181)">
+          <path
+             id="path11185"
+             stroke-linejoin="round"
+             d="m776.72 300.62c0 13.82 16.81 25.03 37.55 25.03 20.75 0 37.56-11.21 37.56-25.03 0-13.83-16.81-25.04-37.56-25.04-20.74 0-37.55 11.21-37.55 25.04"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g11187"
+         style="fill:#ffffff">
+        <g
+           id="g11189"
+           clip-path="url(#clipPath11191)"
+           style="fill:#ffffff">
+          <path
+             id="path11201"
+             fill-rule="evenodd"
+             fill="url(#linearGradient11195)"
+             d="m774.53 276.27h76.618v51.579h-76.618v-51.579z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path11203"
+         stroke-linejoin="round"
+         d="m775.28 302.06c0 13.82 16.81 25.03 37.55 25.03 20.75 0 37.56-11.21 37.56-25.03 0-13.83-16.81-25.04-37.56-25.04-20.74 0-37.55 11.21-37.55 25.04z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g1040">
+        <text
+           id="text11205"
+           transform="matrix(1,0,0,-1,796.95,314.05)">
+          <tspan
+             id="tspan11207"
+             y="0"
+             x="0 4.9218478 8.9022236 11.581776 15.562152 18.944857 21.624409 25.843176 28.632313">Detectors</tspan>
+        </text>
+        <text
+           id="text11209"
+           transform="matrix(1,0,0,-1,784.08,304.46)">
+          <tspan
+             id="tspan11211"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text11213"
+           transform="matrix(1,0,0,-1,786.51,304.46)">
+          <tspan
+             id="tspan11215"
+             y="0"
+             x="0 3.1289041 4.9646878 6.8004718 8.6362562 12.01896 16.237728 20.4408 22.249439 26.452513 28.288296 32.507065 36.710136 40.690514 43.819416 45.628056 48.069504 52.288273 55.077408">silicon diodes for</tspan>
+        </text>
+        <text
+           id="text11217"
+           transform="matrix(1,0,0,-1,789.29,294.86)">
+          <tspan
+             id="tspan11219"
+             y="0"
+             x="0 3.6133921 5.4491758 8.5780802 10.413864 14.616936 16.452721">visible</tspan>
+        </text>
+        <text
+           id="text11221"
+           transform="matrix(1,0,0,-1,809.72,294.86)">
+          <tspan
+             id="tspan11223"
+             y="0"
+             x="0 1.9962">,</tspan>
+        </text>
+        <text
+           id="text11225"
+           transform="matrix(1,0,0,-1,813.53,294.86)">
+          <tspan
+             id="tspan11227"
+             y="0"
+             x="0 2.015712 6.2187839 11.265624 15.09768 19.726488 22.855392">InGaAs</tspan>
+        </text>
+        <text
+           id="text11229"
+           transform="matrix(1,0,0,-1,802.81,285.26)">
+          <tspan
+             id="tspan11231"
+             y="0"
+             x="0 2.441448 6.6602159 9.4493523 11.257992 13.273704">for IR</tspan>
+        </text>
+        <text
+           id="text11233"
+           transform="matrix(1,0,0,-1,820.43,285.26)">
+          <tspan
+             id="tspan11235"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path11237"
+         stroke-linejoin="round"
+         d="m865.98 347.88c0-10.63-13.29-10.63-26.59-10.63-10.53 0-21.07 0-24.97-5.07"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11239"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m812.83 327.09-1.26 7.77c1.78-1.71 4.27-2.49 6.72-2.09l-5.46-5.68z" />
+      <path
+         id="path11241"
+         d="m670.42 192.43h68.03l22.68 45.35h-68.04l-22.67-45.35z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g11243">
+        <g
+           id="g11245"
+           clip-path="url(#clipPath11247)">
+          <path
+             id="path11251"
+             stroke-linejoin="round"
+             d="m670.42 192.43h68.03l22.68 45.35h-68.04l-22.67-45.35"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g11253"
+         style="fill:#ffffff">
+        <g
+           id="g11255"
+           clip-path="url(#clipPath11257)"
+           style="fill:#ffffff">
+          <path
+             id="path11267"
+             fill-rule="evenodd"
+             fill="url(#linearGradient11261)"
+             d="m668.23 193.12h92.209v46.854h-92.209v-46.854z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path11269"
+         stroke-linejoin="round"
+         d="m668.98 193.87h68.03l22.68 45.35h-68.04l-22.67-45.35z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g1068">
+        <text
+           id="text11271"
+           transform="matrix(1,0,0,-1,697.61,218.94)">
+          <tspan
+             id="tspan11273"
+             y="0"
+             x="0 5.1641278 9.5078163 13.851504 15.660144 19.023336 22.855392 29.245895 33.448967">NRR Lamp</tspan>
+        </text>
+        <text
+           id="text11275"
+           transform="matrix(1,0,0,-1,696.23,209.34)">
+          <tspan
+             id="tspan11277"
+             y="0"
+             x="0 4.2657118 8.4687843 11.25792 14.047056 18.027431 22.230503 24.910055">Current</tspan>
+        </text>
+        <text
+           id="text11279"
+           transform="matrix(1,0,0,-1,722.95,209.34)">
+          <tspan
+             id="tspan11281"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text11283"
+           transform="matrix(1,0,0,-1,725.38,209.34)">
+          <tspan
+             id="tspan11285"
+             y="0"
+             x="0">A</tspan>
+        </text>
+        <text
+           id="text11287"
+           transform="matrix(1,0,0,-1,730,209.34)">
+          <tspan
+             id="tspan11289"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path11291"
+         d="m774.24 158.65c0 13.96 16.97 25.27 37.91 25.27s37.91-11.31 37.91-25.27-16.97-25.28-37.91-25.28-37.91 11.32-37.91 25.28z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g11293">
+        <g
+           id="g11295"
+           clip-path="url(#clipPath11297)">
+          <path
+             id="path11301"
+             stroke-linejoin="round"
+             d="m774.24 158.65c0 13.96 16.97 25.27 37.91 25.27s37.91-11.31 37.91-25.27-16.97-25.28-37.91-25.28-37.91 11.32-37.91 25.28"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g11303"
+         style="fill:#ffffff">
+        <g
+           id="g11305"
+           clip-path="url(#clipPath11307)"
+           style="fill:#ffffff">
+          <path
+             id="path11317"
+             fill-rule="evenodd"
+             fill="url(#linearGradient11311)"
+             d="m772.05 134.06h77.327v52.051h-77.327v-52.051z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path11319"
+         stroke-linejoin="round"
+         d="m772.8 160.09c0 13.96 16.97 25.27 37.91 25.27s37.91-11.31 37.91-25.27-16.97-25.28-37.91-25.28-37.91 11.32-37.91 25.28z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <text
+         id="text11321"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,793.98,167.29)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan11323"
+           y="0"
+           x="0 4.2657118 8.0977678 9.9335518 11.769336 15.972408 18.761543 22.593599 25.273151 29.253529 33.4566">Calibrated</tspan>
+      </text>
+      <text
+         id="text11325"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,783.41,157.69)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan11327"
+           y="0"
+           x="0 3.6757441 7.8788161 11.859192 15.241896 17.921448 20.710585 24.542641 26.378424 30.597193 34.800262 36.608906 40.741703 44.573761 48.776833 52.75721">Spectralon Panel</tspan>
+      </text>
+      <path
+         id="path11329"
+         stroke-linejoin="round"
+         d="m812.83 277.02c0-16.54-24.51-16.54-49.03-16.54-22.48 0-44.96 0-48.87-15.96"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11331"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m714.33 239.22-2.71 7.39c2.08-1.35 4.67-1.64 7-0.79l-4.29-6.6z" />
+      <path
+         id="path11333"
+         d="m776.72 427.7c0 13.57 16.49 24.57 36.85 24.57 20.35 0 36.85-11 36.85-24.57s-16.5-24.57-36.85-24.57c-20.36 0-36.85 11-36.85 24.57z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g11335">
+        <g
+           id="g11337"
+           clip-path="url(#clipPath11339)">
+          <path
+             id="path11343"
+             stroke-linejoin="round"
+             d="m776.72 427.7c0 13.57 16.49 24.57 36.85 24.57 20.35 0 36.85-11 36.85-24.57s-16.5-24.57-36.85-24.57c-20.36 0-36.85 11-36.85 24.57"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g11345">
+        <g
+           id="g11347"
+           clip-path="url(#clipPath11349)">
+          <path
+             id="path11359"
+             fill-rule="evenodd"
+             fill="url(#linearGradient11353)"
+             d="m774.53 403.82h75.201v50.634h-75.201v-50.634z" />
+        </g>
+      </g>
+      <path
+         id="path11361"
+         stroke-linejoin="round"
+         d="m775.28 429.14c0 13.57 16.49 24.57 36.85 24.57 20.35 0 36.85-11 36.85-24.57s-16.5-24.57-36.85-24.57c-20.36 0-36.85 11-36.85 24.57z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <text
+         id="text11363"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,789.63,426.74)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan11365"
+           y="0"
+           x="0 3.6757441 7.8788161 11.859192 15.241896 17.921448 20.710585 24.542641 26.378424 28.187063 31.862808 33.698593 35.534374 38.213928 42.194305">Spectral Filter</tspan>
+      </text>
+      <path
+         id="path11367"
+         stroke-linejoin="round"
+         d="m848.98 429.14c4.25 0 10.12 0 13.29-5.11 2.97-4.78 3.57-14.06 3.68-21.69"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11369"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m865.98 397.02-3.56 7.02c2.23-1.1 4.84-1.09 7.04 0.04l-3.48-7.06z" />
+      <path
+         id="path11371"
+         stroke-linejoin="round"
+         d="m812.13 404.57c0-10.63 0-14.39 0.04-16.82 0.09-4.44 0.32-4.44 0.46-9.11 0.19-6.35 0.2-21.32 0.2-46.22"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11373"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m812.83 327.09-3.52 7.04c2.22-1.1 4.83-1.1 7.04 0l-3.52-7.04z" />
+      <path
+         id="path11375"
+         d="m869.47 193.67h70.86l21.43 42.86h-70.86l-21.43-42.86z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g11377">
+        <g
+           id="g11379"
+           clip-path="url(#clipPath11381)">
+          <path
+             id="path11385"
+             stroke-linejoin="round"
+             d="m869.47 193.67h70.86l21.43 42.86h-70.86l-21.43-42.86"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g11387">
+        <g
+           id="g11389"
+           clip-path="url(#clipPath11391)">
+          <path
+             id="path11401"
+             fill-rule="evenodd"
+             fill="url(#linearGradient11395)"
+             d="m867.28 194.36h93.796v44.36h-93.796v-44.36z" />
+        </g>
+      </g>
+      <path
+         id="path11403"
+         stroke-linejoin="round"
+         d="m868.03 195.11h70.86l21.43 42.86h-70.86l-21.43-42.86z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g1116">
+        <text
+           id="text11405"
+           transform="matrix(1,0,0,-1,893.47,218.94)">
+          <tspan
+             id="tspan11407"
+             y="0"
+             x="0 5.1641278 9.5078163 13.851504 15.660144 20.581991 22.417776 24.859224 27.300673 31.503744 34.632648 38.613026 41.402161">NRR Diffuser</tspan>
+        </text>
+        <text
+           id="text11409"
+           transform="matrix(1,0,0,-1,896.07,209.34)">
+          <tspan
+             id="tspan11411"
+             y="0"
+             x="0 4.2657118 8.4687843 11.25792 14.047056 18.027431 22.230503 24.910055">Current</tspan>
+        </text>
+        <text
+           id="text11413"
+           transform="matrix(1,0,0,-1,922.79,209.34)">
+          <tspan
+             id="tspan11415"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text11417"
+           transform="matrix(1,0,0,-1,925.22,209.34)">
+          <tspan
+             id="tspan11419"
+             y="0"
+             x="0">A</tspan>
+        </text>
+        <text
+           id="text11421"
+           transform="matrix(1,0,0,-1,929.85,209.34)">
+          <tspan
+             id="tspan11423"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path11425"
+         stroke-linejoin="round"
+         d="m812.83 277.02c0-17.79 25.26-17.79 50.51-17.79 23.1 0 46.21 0 50.22-15.96"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11427"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m914.17 237.97-4.3 6.59c2.33-0.84 4.92-0.54 6.99 0.81l-2.69-7.4z" />
+      <path
+         id="path11429"
+         d="m780.97 200.93h62.362v28.346h-62.362v-28.346z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g11431">
+        <g
+           id="g11433"
+           clip-path="url(#clipPath11435)">
+          <path
+             id="path11439"
+             stroke-linejoin="round"
+             d="m780.97 200.93h62.36v28.35h-62.36v-28.35"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g11441">
+        <g
+           id="g11443"
+           clip-path="url(#clipPath11445)">
+          <path
+             id="path11455"
+             fill-rule="evenodd"
+             fill="url(#linearGradient11449)"
+             d="m778.78 201.62h63.862v29.846h-63.862v-29.846z" />
+        </g>
+      </g>
+      <path
+         id="path11457"
+         stroke-linejoin="round"
+         d="m779.53 202.37h62.362v28.346h-62.362v-28.346z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <text
+         id="text11459"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,797.84,218.94)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan11461"
+           y="0"
+           x="0 4.9218478 6.7576318 9.1990805 11.640528 15.8436 18.972504 22.952881">Diffuser</tspan>
+      </text>
+      <text
+         id="text11463"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,792.94,209.34)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan11465"
+           y="0"
+           x="0 4.2657118 8.0977678 9.9335518 11.769336 15.972408 18.761543 22.593599 25.273151 27.108936 31.327703">Calibration</tspan>
+      </text>
+      <path
+         id="path11467"
+         stroke-linejoin="round"
+         d="m748.35 216.54h25.85"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11469"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m779.53 216.54-7.04-3.52c1.11 2.22 1.11 4.83 0 7.04l7.04-3.52z" />
+      <path
+         id="path11471"
+         stroke-linejoin="round"
+         d="m878.74 216.54h-31.52"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11473"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m841.89 216.54 7.04 3.52c-1.11-2.21-1.11-4.82 0-7.04l-7.04 3.52z" />
+      <path
+         id="path11475"
+         stroke-linejoin="round"
+         d="m810.71 202.37v-11.68"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11477"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m810.71 185.36-3.52 7.04c2.21-1.11 4.82-1.11 7.04 0l-3.52-7.04z" />
+      <path
+         id="path11479"
+         d="m992.15 507.07c0 17.22 20.94 31.18 46.77 31.18s46.77-13.96 46.77-31.18-20.94-31.18-46.77-31.18-46.77 13.96-46.77 31.18z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g11481">
+        <g
+           id="g11483"
+           clip-path="url(#clipPath11485)">
+          <path
+             id="path11489"
+             stroke-linejoin="round"
+             d="m992.15 507.07c0 17.22 20.94 31.18 46.77 31.18s46.77-13.96 46.77-31.18-20.94-31.18-46.77-31.18-46.77 13.96-46.77 31.18"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g11491"
+         style="fill:#ffffff">
+        <g
+           id="g11493"
+           clip-path="url(#clipPath11495)"
+           style="fill:#ffffff">
+          <path
+             id="path11505"
+             fill-rule="evenodd"
+             fill="url(#linearGradient11499)"
+             d="m989.96 476.58h95.043v63.862h-95.043v-63.862z"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <path
+         id="path11507"
+         stroke-linejoin="round"
+         d="m990.71 508.51c0 17.22 20.94 31.18 46.77 31.18s46.77-13.96 46.77-31.18-20.94-31.18-46.77-31.18-46.77 13.96-46.77 31.18z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g1156">
+        <text
+           id="text11509"
+           transform="matrix(1,0,0,-1,1001.4,515.71)">
+          <tspan
+             id="tspan11511"
+             y="0"
+             x="0 3.6757441 7.5078001 10.187352 14.167728 16.003511 17.839296 19.675079 22.354631 26.335009 28.143648 33.440399 36.823105 40.803478 44.635536 48.838608 50.647247 54.91296 59.131729 60.96751 65.186279 69.389351 72.17849">Satellite Ocean Colour</tspan>
+        </text>
+        <text
+           id="text11513"
+           transform="matrix(1,0,0,-1,1001.4,506.11)">
+          <tspan
+             id="tspan11515"
+             y="0"
+             x="0 3.6757441 7.6561198 11.859192 14.988096 19.206863 21.996">Sensor</tspan>
+        </text>
+        <text
+           id="text11517"
+           transform="matrix(1,0,0,-1,1025.2,506.11)">
+          <tspan
+             id="tspan11519"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text11521"
+           transform="matrix(1,0,0,-1,1027.7,506.11)">
+          <tspan
+             id="tspan11523"
+             y="0"
+             x="0">e</tspan>
+        </text>
+        <text
+           id="text11525"
+           transform="matrix(1,0,0,-1,1031.6,506.11)">
+          <tspan
+             id="tspan11527"
+             y="0"
+             x="0">.</tspan>
+        </text>
+        <text
+           id="text11529"
+           transform="matrix(1,0,0,-1,1033.7,506.11)">
+          <tspan
+             id="tspan11531"
+             y="0"
+             x="0">g</tspan>
+        </text>
+        <text
+           id="text11533"
+           transform="matrix(1,0,0,-1,1037.4,506.11)">
+          <tspan
+             id="tspan11535"
+             y="0"
+             x="0 2.0195279">.</tspan>
+        </text>
+        <text
+           id="text11537"
+           transform="matrix(1,0,0,-1,1041.3,506.11)">
+          <tspan
+             id="tspan11539"
+             y="0"
+             x="0 3.6757441 7.6561198 11.859192 14.538744 16.374529 20.5776 24.557976 26.393761">Sentinel</tspan>
+        </text>
+        <text
+           id="text11541"
+           transform="matrix(1,0,0,-1,1069.5,506.11)">
+          <tspan
+             id="tspan11543"
+             y="0"
+             x="0 4.0547519">3</tspan>
+        </text>
+        <text
+           id="text11545"
+           transform="matrix(1,0,0,-1,1028.8,496.51)">
+          <tspan
+             id="tspan11547"
+             y="0"
+             x="0 5.296752 8.6599436 12.925656">OLCI</tspan>
+        </text>
+        <text
+           id="text11549"
+           transform="matrix(1,0,0,-1,1043.7,496.51)">
+          <tspan
+             id="tspan11551"
+             y="0"
+             x="0 2.4257519">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path11553"
+         stroke-linejoin="round"
+         d="m848.62 160.09c18.88 0 21-23.29 33.39-28.5"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11555"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m887.24 130.56-7.58-2.1c1.51 1.96 2.01 4.52 1.35 6.91l6.23-4.81z" />
+      <path
+         id="path11557"
+         stroke-linejoin="round"
+         d="m848.98 94.654c18.85 0 20.98 28.246 33.09 34.626"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11559"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m887.24 130.56-5.99-5.1c0.55 2.41-0.08 4.95-1.68 6.83l7.67-1.73z" />
+      <path
+         id="path11561"
+         stroke-linejoin="round"
+         d="m1037.5 338.43v41.45"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11563"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m1037.5 385.2 3.52-7.04c-2.22 1.11-4.82 1.11-7.04 0l3.52 7.04z" />
+      <path
+         id="path11565"
+         stroke-linejoin="round"
+         d="m1037.5 427.72v44.28"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11567"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m1037.5 477.33 3.52-7.04c-2.22 1.11-4.82 1.11-7.04 0l3.52 7.04z" />
+      <path
+         id="path11569"
+         d="m993.14 111.34h73.7l17.86 35.73h-73.7l-17.86-35.73z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g11571">
+        <g
+           id="g11573"
+           clip-path="url(#clipPath11575)">
+          <path
+             id="path11579"
+             stroke-linejoin="round"
+             d="m993.14 111.34h73.7l17.86 35.73h-73.7l-17.86-35.73"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g11581">
+        <g
+           id="g11583"
+           clip-path="url(#clipPath11585)">
+          <path
+             id="path11595"
+             fill-rule="evenodd"
+             fill="url(#linearGradient11589)"
+             d="m990.95 112.03h93.068v37.234h-93.068v-37.234z" />
+        </g>
+      </g>
+      <path
+         id="path11597"
+         stroke-linejoin="round"
+         d="m991.7 112.78h73.7l17.86 35.73h-73.7l-17.86-35.73z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g1196">
+        <text
+           id="text11599"
+           transform="matrix(1,0,0,-1,1018.4,133.05)">
+          <tspan
+             id="tspan11601"
+             y="0"
+             x="0 4.343688 8.1757441 12.378816 14.2146 18.433369 24.823872 28.804249 31.483801 35.464176 38.253311">Radiometer</tspan>
+        </text>
+        <text
+           id="text11603"
+           transform="matrix(1,0,0,-1,1019.4,123.45)">
+          <tspan
+             id="tspan11605"
+             y="0"
+             x="0 4.2657118 8.4687843 11.25792 14.047056 18.027431 22.230503 24.910055">Current</tspan>
+        </text>
+        <text
+           id="text11607"
+           transform="matrix(1,0,0,-1,1046.1,123.45)">
+          <tspan
+             id="tspan11609"
+             y="0"
+             x="0">(</tspan>
+        </text>
+        <text
+           id="text11611"
+           transform="matrix(1,0,0,-1,1048.5,123.45)">
+          <tspan
+             id="tspan11613"
+             y="0"
+             x="0">A</tspan>
+        </text>
+        <text
+           id="text11615"
+           transform="matrix(1,0,0,-1,1053.2,123.45)">
+          <tspan
+             id="tspan11617"
+             y="0"
+             x="0">)</tspan>
+        </text>
+      </g>
+      <path
+         id="path11619"
+         d="m1003.5 195.26h70.866v42.52h-70.866v-42.52z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g11621">
+        <g
+           id="g11623"
+           clip-path="url(#clipPath11625)">
+          <path
+             id="path11629"
+             stroke-linejoin="round"
+             d="m1003.5 195.26h70.86v42.52h-70.86v-42.52"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g11631">
+        <g
+           id="g11633"
+           clip-path="url(#clipPath11635)">
+          <path
+             id="path11645"
+             fill-rule="evenodd"
+             fill="url(#linearGradient11639)"
+             d="m1001.3 195.95h72.366v44.02h-72.366v-44.02z" />
+        </g>
+      </g>
+      <path
+         id="path11647"
+         stroke-linejoin="round"
+         d="m1002 196.7h70.866v42.52h-70.866v-42.52z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <text
+         id="text11649"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,1010.5,220.36)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan11651"
+           y="0"
+           x="0 5.296752 9.5624638 13.906152 15.714792 20.058479 23.890535 28.093609 29.929392 34.148159 40.538666 44.519039 47.198593 51.178967 53.968105">OCR Radiometer</tspan>
+      </text>
+      <text
+         id="text11653"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,1019.7,210.76)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan11655"
+           y="0"
+           x="0 4.2657118 8.0977678 9.9335518 11.769336 15.972408 18.761543 22.593599 25.273151 27.108936 31.327703">Calibration</tspan>
+      </text>
+      <path
+         id="path11657"
+         stroke-linejoin="round"
+         d="m1037.5 148.51v42.86"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11659"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m1037.5 196.7 3.52-7.04c-2.22 1.11-4.82 1.11-7.04 0l3.52 7.04z" />
+      <path
+         id="path11661"
+         stroke-linejoin="round"
+         d="m1037.5 239.22v31.52"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11663"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m1037.5 276.07 3.52-7.04c-2.22 1.11-4.82 1.11-7.04 0l3.52 7.04z" />
+      <path
+         id="path11665"
+         d="m888.68 129.12c0 15.13 18.41 27.4 41.11 27.4s41.1-12.27 41.1-27.4-18.4-27.4-41.1-27.4-41.11 12.27-41.11 27.4z"
+         fill-opacity=".49804"
+         fill-rule="evenodd"
+         fill="#cdcdcd" />
+      <g
+         id="g11667">
+        <g
+           id="g11669"
+           clip-path="url(#clipPath11671)">
+          <path
+             id="path11675"
+             stroke-linejoin="round"
+             d="m888.68 129.12c0 15.13 18.41 27.4 41.11 27.4s41.1-12.27 41.1-27.4-18.4-27.4-41.1-27.4-41.11 12.27-41.11 27.4"
+             stroke-opacity=".49804"
+             stroke="#cdcdcd"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             stroke-width=".25"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         id="g11677">
+        <g
+           id="g11679"
+           clip-path="url(#clipPath11681)">
+          <path
+             id="path11691"
+             fill-rule="evenodd"
+             fill="url(#linearGradient11685)"
+             d="m886.49 102.41h83.705v56.303h-83.705v-56.303z" />
+        </g>
+      </g>
+      <path
+         id="path11693"
+         stroke-linejoin="round"
+         d="m887.24 130.56c0 15.13 18.41 27.4 41.11 27.4s41.1-12.27 41.1-27.4-18.4-27.4-41.1-27.4-41.11 12.27-41.11 27.4z"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width=".25"
+         fill="none"
+         style="fill:#ffffff" />
+      <text
+         id="text11695"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,906.33,132.96)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan11697"
+           y="0"
+           x="0 5.296752 8.6794558 12.659832 16.491888 20.69496 22.503599 26.769312 30.988079 32.823864 37.042633 41.245705 44.03484">Ocean Colour</tspan>
+      </text>
+      <text
+         id="text11699"
+         font-size="7.9999px"
+         transform="matrix(1,0,0,-1,909.22,123.36)"
+         font-family="CALIBRI"
+         fill="#000000">
+        <tspan
+           id="tspan11701"
+           y="0"
+           x="0 4.343688 8.1757441 12.378816 14.2146 18.433369 24.823872 28.804249 31.483801 35.464176">Radiometer</tspan>
+      </text>
+      <path
+         id="path11703"
+         stroke-linejoin="round"
+         d="m969.45 130.56c10.63 0 16.76 0 19.36 0.02 1.9 0.02 1.9 0.05 3.75 0.06h2.74"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11705"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m1000.6 130.64-7.04-3.52c1.11 2.22 1.11 4.83 0 7.04l7.04-3.52z" />
+      <path
+         id="path11707"
+         stroke-linejoin="round"
+         d="m810.71 120.17v9.31"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11709"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m810.71 134.81 3.52-7.04c-2.22 1.11-4.83 1.11-7.04 0l3.52 7.04z" />
+      <path
+         id="path11711"
+         stroke-linejoin="round"
+         d="m829.16 699.83h277.79v113.38h-277.79v-113.38"
+         stroke-opacity=".49804"
+         stroke="#cdcdcd"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11713"
+         stroke-linejoin="round"
+         d="m827.72 701.27h277.79v113.38h-277.79v-113.38"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <g
+         font-size="7.9999px"
+         font-family="CALIBRI"
+         fill="#000000"
+         id="g1242">
+        <text
+           id="text11715"
+           transform="matrix(1,0,0,-1,844.84,726.34)">
+          <tspan
+             id="tspan11717"
+             y="0"
+             x="0 4.343688 8.3240643 12.527136 14.335776 18.167831 22.370905 26.573977 28.382616 32.58569 34.421471 38.624542 42.604919 44.413559 47.542465 51.745537 55.577591 59.780663 63.76104 66.889946 68.698586 70.53437 74.737442 78.940514 80.776299 84.158997 87.991058 90.670609 94.650986 96.459625 100.6627 104.88146">Red and blue shapes indicate pop</tspan>
+        </text>
+        <text
+           id="text11719"
+           transform="matrix(1,0,0,-1,953.92,726.34)">
+          <tspan
+             id="tspan11721"
+             y="0"
+             x="0">-</tspan>
+        </text>
+        <text
+           id="text11723"
+           transform="matrix(1,0,0,-1,956.37,726.34)">
+          <tspan
+             id="tspan11725"
+             y="0"
+             x="0 4.2030721 8.4061441 10.214784 12.050568 16.253639 18.695087 22.913857 25.702991 32.093494 35.925552 38.605103 40.440887 44.659657 48.862728 50.671368 54.503426 58.116817 61.948872 63.784657 65.620438 69.452499 73.655571 75.491348 79.471725 81.280365 85.483437 89.104538 90.913177 94.295883 96.13166 97.967445 101.35015 104.98687 106.82265 111.02573 114.79126 116.5999 120.81866 125.02174 126.83038 129.50993 133.713 137.69337">up information available by clicking on the</tspan>
+        </text>
+        <text
+           id="text11727"
+           transform="matrix(1,0,0,-1,885.36,716.75)">
+          <tspan
+             id="tspan11729"
+             y="0"
+             x="0 3.1289041 7.3319759 11.164032 15.367104">shape</tspan>
+        </text>
+        <text
+           id="text11731"
+           transform="matrix(1,0,0,-1,904.71,716.75)">
+          <tspan
+             id="tspan11733"
+             y="0"
+             x="0 2.0195279">.</tspan>
+        </text>
+        <text
+           id="text11735"
+           transform="matrix(1,0,0,-1,908.53,716.75)">
+          <tspan
+             id="tspan11737"
+             y="0"
+             x="0 4.343688 8.3240643 12.527136 14.335776 17.46468 21.667751 25.499807 29.702881 33.683254 36.81216 38.6208 42.452854 44.288639 47.417545 51.636311 53.44495 55.280735 59.483807 63.686878 65.522667 68.905365 72.737427 75.416977 79.397354 81.205994 85.038048 86.846687 91.049759 93.838898 95.674683 102.06519 105.89724 108.68638 112.30747 114.11611 117.24502 119.92457 123.75662 127.95969 132.16277 135.99483 138.78397">Red shapes also indicate a primary standard</tspan>
+        </text>
+        <text
+           id="text11739"
+           transform="matrix(1,0,0,-1,1051.5,716.75)">
+          <tspan
+             id="tspan11741"
+             y="0"
+             x="0">.</tspan>
+        </text>
+      </g>
+      <path
+         id="path11743"
+         stroke-linejoin="round"
+         d="m411.73 171.19c13.47-28.35 50.43-44.62 87.4-42.38 31.97 1.95 63.94 17.74 66.88-8.99"
+         stroke="#404040"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         fill="none" />
+      <path
+         id="path11745"
+         fill-rule="evenodd"
+         fill="#404040"
+         d="m566.22 114.5-3.79 6.89c2.25-1.02 4.86-0.92 7.03 0.28l-3.24-7.17z" />
+    </g>
+  </g>
+</svg>

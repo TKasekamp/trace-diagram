@@ -18,12 +18,13 @@ var tooltipsArray = function () {
 }
 
 var registerTooltip = function (id, text, svgAll, div) {
+    var img = "<img src='./diagram/gtaV006.jpg' style='height: 50%;' align='right'>";
     svgAll.select(id)
         .on("mouseover", function (d) {
             div.transition()
                 .duration(200)
                 .style("opacity", 1);
-            div.html(text)
+            div.html(img + text)
                 .style("left", (d3.event.pageX) + "px")
                 .style("top", (d3.event.pageY + 30) + "px");
         })

@@ -24,14 +24,15 @@ var registerTooltip = function (id, text, svgAll, div) {
             div.transition()
                 .duration(200)
                 .style("opacity", 1);
-            div.html(img + text)
+            div
                 .style("left", (d3.event.pageX) + "px")
                 .style("top", (d3.event.pageY + 30) + "px");
         })
         .on("mouseout", function (d) {
             div.transition()
                 .duration(500)
-                .style("opacity", 0);
+                .style("opacity", 0)
+               .style("pointer-events", "none");
         });
 
 };
@@ -48,6 +49,19 @@ var generateTooltips = function () {
 
     var div = d3.select(".entry-content-inner").append("div")
         .attr("class", "tooltip")
+        .style("opacity", 0);
+
+    var svgAll = d3.select(document.getElementById("alphasvg").getSVGDocument()).selectAll("g");
+
+    var tooltips = tooltipsArray();
+    for (i = 0; i < tooltips.length; i++) {
+        registerTooltip(tooltips[i][0], tooltips[i][1], svgAll, div);
+    }
+};
+
+var generateTooltips = function () {
+
+    var div = d3.select("#thayer-tooltip-content")
         .style("opacity", 0);
 
     var svgAll = d3.select(document.getElementById("alphasvg").getSVGDocument()).selectAll("g");
@@ -86,14 +100,14 @@ jQuery(document).ready(function () {
 
     svgholder.load("image/svg+xml", function () {
         generateTooltips();
-        gen3();
+        //gen3();
     });
 
-    var svgholder = jQuery('body').find("object#alphasvg2");
-
-    svgholder.load("image/svg+xml", function () {
-        generateTooltips2();
-    });
+    // var svgholder = jQuery('body').find("object#alphasvg2");
+    //
+    // svgholder.load("image/svg+xml", function () {
+    //     generateTooltips2();
+    // });
 
 
 });

@@ -6,6 +6,7 @@
     background: #fff;
     overflow-y: auto;
     max-height: 400px;
+    position: absolute;
 }
 .tooltip-painter .photo {
     float: left;

@@ -67,6 +67,18 @@ var generateTooltips2 = function () {
     }
 };
 
+var gen3 = function() {
+    Tipped.create('#here', {
+        inline: 'thayer-tooltip-content',
+        skin: 'light',
+        radius: false,
+        padding: false,
+        position: 'topleft',
+        size: 'large',
+        container: '.scrolling-container'
+    });
+}
+
 
 jQuery(document).ready(function () {
     // On load listener NECESSARY
@@ -74,6 +86,7 @@ jQuery(document).ready(function () {
 
     svgholder.load("image/svg+xml", function () {
         generateTooltips();
+        gen3();
     });
 
     var svgholder = jQuery('body').find("object#alphasvg2");
@@ -81,6 +94,8 @@ jQuery(document).ready(function () {
     svgholder.load("image/svg+xml", function () {
         generateTooltips2();
     });
+
+
 });
 
 

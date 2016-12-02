@@ -15,17 +15,19 @@ var tooltipsArray = function () {
     // Array of arrays
     var tooltips = [];
 
-    // Element ID, tooltip text
-    var t1 = ["#g9491", `Second text`];
-    //var t2 = ["#g10027", "This is a sample text"];
+    // SVG element ID, tooltip id
+    var t1 = ["#g9491", "#thayer-tooltip-content"];
+    var t2 = ["#g10027", "#tooltip2"];
 
     tooltips.push(t1);
-    //tooltips.push(t2);
+    tooltips.push(t2);
     return tooltips;
 }
 
-var registerTooltip = function (id, text, svgAll, div) {
-    var img = "<img src='./diagram/cryo.png' style='height: 50%;' align='right'>";
+var registerTooltip = function (id, divId, svgAll) {
+
+    var div = toolTipListener(divId);
+
     svgAll.select(id)
         .on("mouseenter", function (d) {
             console.log("new loop");
@@ -61,32 +63,9 @@ var registerTooltip = function (id, text, svgAll, div) {
 
 };
 
-// Alternate version using title
-// var registerTooltip2 = function (id, text, svgAll) {
-    // svgAll.select(id)
-        // .append("svg:title")
-        // .text(text);
 
-// };
-
-// var generateTooltips = function () {
-
-    // var div = d3.select(".entry-content-inner").append("div")
-        // .attr("class", "tooltip")
-        // .style("opacity", 0);
-
-
-    // var svgAll = d3.select(document.getElementById("alphasvg").getSVGDocument()).selectAll("g");
-
-    // var tooltips = tooltipsArray();
-    // for (i = 0; i < tooltips.length; i++) {
-        // registerTooltip(tooltips[i][0], tooltips[i][1], svgAll, div);
-    // }
-// };
-
-var generateTooltips = function () {
-
-    var div = d3.select("#thayer-tooltip-content")
+var toolTipListener = function(divId) {
+    var div = d3.select(divId)
         .style("opacity", 0);
 
     div.on("mouseenter", function (d) {
@@ -115,34 +94,19 @@ var generateTooltips = function () {
             // console.log("one " + onE);
         });
 
+    return div;
+}
+
+
+var generateTooltips = function () {
+
     var svgAll = d3.select(document.getElementById("alphasvg").getSVGDocument()).selectAll("g");
 
     var tooltips = tooltipsArray();
     for (i = 0; i < tooltips.length; i++) {
-        registerTooltip(tooltips[i][0], tooltips[i][1], svgAll, div);
+        registerTooltip(tooltips[i][0], tooltips[i][1], svgAll);
     }
 };
-
-// var generateTooltips2 = function () {
-    // var svgAll2 = d3.select(document.getElementById("alphasvg2").getSVGDocument()).selectAll("g");
-
-    // var tooltips = tooltipsArray();
-    // for (i = 0; i < tooltips.length; i++) {
-        // registerTooltip2(tooltips[i][0], tooltips[i][1], svgAll2);
-    // }
-// };
-
-// var gen3 = function () {
-    // Tipped.create('#here', {
-        // inline: 'thayer-tooltip-content',
-        // skin: 'light',
-        // radius: false,
-        // padding: false,
-        // position: 'topleft',
-        // size: 'large',
-        // container: '.scrolling-container'
-    // });
-// }
 
 
 jQuery(document).ready(function () {
@@ -153,12 +117,6 @@ jQuery(document).ready(function () {
         generateTooltips();
         //gen3();
     });
-
-    // var svgholder = jQuery('body').find("object#alphasvg2");
-    //
-    // svgholder.load("image/svg+xml", function () {
-    //     generateTooltips2();
-    // });
 
 
 });

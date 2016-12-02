@@ -29,10 +29,10 @@ var tooltipsArray = function () {
 var registerTooltip = function (id, text, svgAll, div) {
     var img = "<img src='./diagram/gtaV006.jpg' style='height: 50%;' align='right'>";
     svgAll.select(id)
-        .on("mouseover", function (d) {
+        .on("mouseenter", function (d) {
             console.log("new loop");
             div.transition()
-                //.duration(200)
+                .duration(200)
                 .style("opacity", 1);
             div
                 .style("pointer-events", "auto")
@@ -44,10 +44,10 @@ var registerTooltip = function (id, text, svgAll, div) {
             onE = true;
             console.log("one " + onE);
         })
-        .on("mouseout", function (d) {
+        .on("mouseleave", function (d) {
             if (onE && !onT) {
                 div.transition()
-                    //.duration(500)
+                    .duration(500)
                     .style("opacity", 0)
                     .style("pointer-events", "none");
                 console.log("hiding tip in reg tooltip");
@@ -91,7 +91,7 @@ var generateTooltips = function () {
     var div = d3.select("#thayer-tooltip-content")
         .style("opacity", 0);
 
-    div.on("mouseover", function (d) {
+    div.on("mouseenter", function (d) {
         console.log("on tooltip");
         div
             .style("pointer-events", "auto");
@@ -99,11 +99,11 @@ var generateTooltips = function () {
         // console.log("ont " + onT);
 
     })
-        .on("mouseout", function (d) {
+        .on("mouseleave", function (d) {
             console.log("div mouseout");
             if (onT && !onE) {
                 div.transition()
-                    //.duration(500)
+                    .duration(500)
                     .style("opacity", 0)
                     .style("pointer-events", "none");
                 console.log("hiding tip div itself");

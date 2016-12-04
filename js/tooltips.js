@@ -16,7 +16,7 @@ var tooltipsArray = function () {
     var tooltips = [];
 
     // SVG element ID, tooltip id
-    var t1 = ["#g9491", "#thayer-tooltip-content"];
+    var t1 = ["#g9491", "#tooltip1"];
     var t2 = ["#g10027", "#tooltip2"];
 
     tooltips.push(t1);
@@ -55,8 +55,8 @@ var registerTooltip = function (id, divId, svgAll) {
 
             }
 
-            div
-                .style("pointer-events", "auto");
+            // div
+            //     .style("pointer-events", "auto");
             onE = false;
             console.log("one " + onE);
         });

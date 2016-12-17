@@ -14,7 +14,7 @@ var reset = function () {
 var tooltipsArray = function () {
     // Array of arrays
     var tooltips = [];
-    var tooltip_count = 25;
+    var tooltip_count = 22;
     for (i=1; i < tooltip_count; i++) {
         // SVG element ID, tooltip id
         var tooltip = ["#element" + i, "#tooltip" + i];

@@ -14,11 +14,12 @@ var reset = function () {
 var tooltipsArray = function () {
     // Array of arrays
     var tooltips = [];
-
-    // SVG element ID, tooltip id
-    var t1 = ["#element1", "#tooltip1"];
-
-    tooltips.push(t1);
+    var tooltip_count = 25;
+    for (i=1; i < tooltip_count; i++) {
+        // SVG element ID, tooltip id
+        var tooltip = ["#element" + i, "#tooltip" + i];
+        tooltips.push(tooltip);
+    }
     return tooltips;
 }
 

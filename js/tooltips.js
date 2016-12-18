@@ -62,6 +62,29 @@ var registerTooltip = function (id, divId, svgAll) {
 
 };
 
+// For tooltips with no scroll
+var registerTooltipNoScroll = function (id, divId, svgAll) {
+
+    var div = d3.select(divId)
+        .style("opacity", 0).style("pointer-events", "none");
+
+    svgAll.select(id)
+        .on("mouseenter", function (d) {
+            div.transition()
+                .duration(200)
+                .style("opacity", 1);
+            div
+                .style("left", (d3.event.pageX) + "px")
+                .style("top", (d3.event.pageY + 30) + "px");
+
+        })
+        .on("mouseleave", function (d) {
+            div.transition()
+                .duration(500)
+                .style("opacity", 0);
+        });
+
+};
 
 var toolTipListener = function(divId) {
     var div = d3.select(divId)

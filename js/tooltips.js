@@ -140,6 +140,13 @@ jQuery(document).ready(function () {
         //gen3();
     });
 
+  panZoomInstance = svgPanZoom('#to-svg', {
+    zoomEnabled: true,
+    controlIconsEnabled: true,
+    fit: true,
+    center: true,
+    minZoom: 0.1
+  });
 
 });
 

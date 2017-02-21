@@ -3,11 +3,6 @@
     float: left;
     height: 0;
     opacity: 0;
-    /*width: 400px;*/
-    /*background: #fff;*/
-    /*overflow-y: auto;*/
-    /*max-height: 400px;*/
-    /*position: absolute;*/
 }
 .tooltip-painter .photo {
     float: left;
@@ -113,12 +108,4 @@
 .tooltip-tooltip .more .text {
     font-size: 11px;
     text-transform: uppercase;
-}
-
-.close-button {
-    display: block;
-    position: absolute;
- /*   top: 2px;*/
-    right: 2px;
-    font-size: 60px;
 }

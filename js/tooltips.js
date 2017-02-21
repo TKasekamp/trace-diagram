@@ -35,27 +35,15 @@ var registerTooltip = function (id, divId, svgAll) {
     console.log(id);
     var div = d3.select(divId);
 
-
-
     svgAll.select(id)
         .on("mouseenter", function (d) {
+            // Reset
             d3.selectAll(".tooltip-painter").style("opacity", 0).style("height", 0);
-            // d3.selectAll(".tooltip-painter")
-            //     .classed("collapsed", function (d, i) {
-            //         return !d3.select(this).classed("collapsed");
-            //     });
 
             div.transition()
                 .duration(200)
                 .style("height", "auto")
                 .style("opacity", 1);
-                // .style("visibility", "visible");
-            // div
-            //
-            //     .style("pointer-events", "auto");
-                // .style("left", (d3.event.pageX) + "px")
-                // .style("top", (d3.event.pageY + 30) + "px");
-
         })
     ;
 
@@ -109,21 +97,13 @@ var generateTooltips = function () {
 };
 
 
-var closeTooltip = function (id) {
-    d3.select("#" + id)
-        .style("opacity", 0).style("pointer-events", "none");
-
-};
-
 jQuery(document).ready(function () {
     // On load listener NECESSARY
     var svgholder = jQuery('body').find("object#alphasvg");
 
     svgholder.load("image/svg+xml", function () {
         generateTooltips();
-        //gen3();
     });
-
 
 });
 

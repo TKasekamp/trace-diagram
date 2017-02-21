@@ -12,6 +12,9 @@ var tooltipsArray = function () {
         var tooltip = ["#element" + i, "#tooltip" + i];
         tooltips.push(tooltip);
     }
+
+    var tooltip = ["#element2", "#tooltip1a"];
+    tooltips.push(tooltip);
     return tooltips;
 };
 
@@ -20,7 +23,7 @@ var tooltipsArray2 = function () {
     // Array of arrays
     var tooltips = [];
     var tooltip_count = 22;
-    for (i = 2; i < tooltip_count; i++) {
+    for (i = 3; i < tooltip_count; i++) {
         // SVG element ID, tooltip id
         var tooltip = ["#element" + i, "#tooltip" + i];
         tooltips.push(tooltip);
@@ -30,16 +33,26 @@ var tooltipsArray2 = function () {
 
 var registerTooltip = function (id, divId, svgAll) {
     console.log(id);
-    var div = d3.select(divId)
-        .style("opacity", 0).style("pointer-events", "none");
+    var div = d3.select(divId);
+
+
 
     svgAll.select(id)
         .on("mouseenter", function (d) {
+            d3.selectAll(".tooltip-painter").style("opacity", 0).style("height", 0);
+            // d3.selectAll(".tooltip-painter")
+            //     .classed("collapsed", function (d, i) {
+            //         return !d3.select(this).classed("collapsed");
+            //     });
+
             div.transition()
                 .duration(200)
+                .style("height", "auto")
                 .style("opacity", 1);
-            div
-                .style("pointer-events", "auto");
+                // .style("visibility", "visible");
+            // div
+            //
+            //     .style("pointer-events", "auto");
                 // .style("left", (d3.event.pageX) + "px")
                 // .style("top", (d3.event.pageY + 30) + "px");
 

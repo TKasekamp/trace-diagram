@@ -1,11 +1,11 @@
 
 .tooltip-painter {
-    float: left;
-    width: 400px;
-    background: #fff;
-    overflow-y: auto;
-    max-height: 400px;
-    position: absolute;
+    /*float: left;*/
+    /*width: 400px;*/
+    /*background: #fff;*/
+    /*overflow-y: auto;*/
+    /*max-height: 400px;*/
+    /*position: absolute;*/
 }
 .tooltip-painter .photo {
     float: left;
@@ -52,6 +52,63 @@
 
 }
 .tooltip-painter .more .text {
+    font-size: 11px;
+    text-transform: uppercase;
+}
+
+.tooltip-tooltip {
+    float: left;
+    width: 400px;
+    background: #fff;
+    overflow-y: auto;
+    max-height: 400px;
+    position: absolute;
+}
+.tooltip-tooltip .photo {
+    float: left;
+    clear: both;
+    width: 100%;
+    height: auto;
+}
+.tooltip-tooltip .photo img {
+    float: left;
+    max-width: 100%;
+    height: auto;
+}
+.tooltip-tooltip .content {
+    float: left;
+    clear: both;
+    width: 100%;
+}
+.tooltip-tooltip .content .padder {
+    float: left;
+    padding: 10px;
+}
+.tooltip-tooltip .title,
+.tooltip-tooltip .description {
+    float: left;
+    clear: both;
+    width: 100%;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, Arial, sans-serif;
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 5px;
+}
+
+.tooltip-tooltip .title {
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 10px;
+    font-family: "HelveticaNeue", "Helvetica Neue", "HelveticaNeueRoman", "HelveticaNeue-Roman", "Helvetica Neue Roman", Helvetica, sans-serif;
+    color: #000;
+}
+.tooltip-tooltip a,
+.tooltip-tooltip a:hover {
+    color: #808080;
+    text-decoration: none;
+
+}
+.tooltip-tooltip .more .text {
     font-size: 11px;
     text-transform: uppercase;
 }

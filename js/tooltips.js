@@ -39,9 +39,9 @@ var registerTooltip = function (id, divId, svgAll) {
                 .duration(200)
                 .style("opacity", 1);
             div
-                .style("pointer-events", "auto")
-                .style("left", (d3.event.pageX) + "px")
-                .style("top", (d3.event.pageY + 30) + "px");
+                .style("pointer-events", "auto");
+                // .style("left", (d3.event.pageX) + "px")
+                // .style("top", (d3.event.pageY + 30) + "px");
 
         })
     ;

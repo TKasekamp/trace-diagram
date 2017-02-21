@@ -97,11 +97,15 @@ var generateTooltips = function () {
         registerTooltip(tooltips[i][0], tooltips[i][1], svgAll);
     }
 
+
     // No close button
     var tooltips2 = tooltipsArray2();
     for (i = 0; i < tooltips2.length; i++) {
         registerTooltipNoScroll(tooltips2[i][0], tooltips2[i][1], svgAll);
     }
+
+    // Set first tooltip open
+    d3.select(tooltips[0][1]).style("opacity", 1).style("height", "auto");
 };
 
 

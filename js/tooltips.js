@@ -13,7 +13,7 @@ var tooltipsArray = function () {
         tooltips.push(tooltip);
     }
 
-    var tooltip = ["#element2", "#tooltip1a"];
+    var tooltip = ["#element2", "#tooltip2"];
     tooltips.push(tooltip);
     return tooltips;
 };
@@ -32,7 +32,7 @@ var tooltipsArray2 = function () {
 };
 
 var registerTooltip = function (id, divId, svgAll) {
-    console.log(id);
+    console.log(id + " " + divId);
     var div = d3.select(divId);
 
     svgAll.select(id)
@@ -77,7 +77,9 @@ var registerTooltipNoScroll = function (id, divId, svgAll) {
 var generateTooltips = function () {
 
     var svgAll = d3.select(document.getElementById("alphasvg").getSVGDocument()).selectAll("g");
-
+// console.log(d3.select("element1"));
+//     console.log(svgAll);
+//     console.log(svgAll.select("element1"));
     // With close button
     var tooltips = tooltipsArray();
     for (i = 0; i < tooltips.length; i++) {
@@ -87,10 +89,10 @@ var generateTooltips = function () {
 
 
     // No close button
-    var tooltips2 = tooltipsArray2();
-    for (i = 0; i < tooltips2.length; i++) {
-        registerTooltipNoScroll(tooltips2[i][0], tooltips2[i][1], svgAll);
-    }
+    // var tooltips2 = tooltipsArray2();
+    // for (i = 0; i < tooltips2.length; i++) {
+    //     registerTooltipNoScroll(tooltips2[i][0], tooltips2[i][1], svgAll);
+    // }
 
     // Set first tooltip open
     d3.select(tooltips[0][1]).style("opacity", 1).style("height", "auto");

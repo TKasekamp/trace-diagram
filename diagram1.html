@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1"/>
+    <title>Traceability to SI diagram - Tooltip</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="./css/style.css"/>
+
+</head>
+<body>
+
+<div class="panel panel-default col-md-9">
+    <div class="panel-body">
+        <object data="diagram/to.svg" type="image/svg+xml" id="alphasvg" width="100%" height="100%"></object>
+    </div>
+</div>
+<div class="panel panel-default col-md-3">
+    <div class="panel-body">
+        <div class='tooltip-painter ' id='tooltip1'>
+            <div class='photo'>
+                <img src='diagram/cryo.png' alt=''/>
+            </div>
+
+            <div class='content'>
+                <div class='padder'>
+                    <div class='title'>NPL's cryogenic radiometer</div>
+                    <div class="description" style="color: #333">NPL's cryogenic radiometer is the primary standard for
+                        the
+                        measurement of optical radiant power. It uses the electrical substitution technique, whereby the
+                        optical power incident on an absorbing cavity is compared with the electrical power required to
+                        heat
+                        the cavity to the same temperature. For the optical input NPL uses a Krypton Ion tuneable laser
+                        producing beams of radiation at single wavelengths that are focused to under-fill the cryogenic
+                        radiometer’s aperture. High Tc superconducting leads to the cavity heater ensure true
+                        equivalence of
+                        electrical and optical power.</p>
+                        <p>The cavity is made of electroformed copper to reduce its mass and is coated internally with
+                            NPL
+                            super black. The design of the cavity in combination with operation at helium temperatures
+                            ensures an optimal response to incoming radiation. The cavity is isolated from fluctuations
+                            in
+                            the cold head of the cooler by a reference block maintained at a constant temperature. The
+                            accuracy of the system is further enhanced by operating the cavity within an isothermal
+                            shield.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</body>
+</html>
